@@ -1,0 +1,35 @@
+﻿"SYMBOL 
+","COMPANY 
+","REGULATION 
+","NAME OF THE ACQUIRER/DISPOSER 
+","CATEGORY OF PERSON 
+","TYPE OF SECURITY (PRIOR) 
+","NO. OF SECURITY (PRIOR) 
+","% SHAREHOLDING (PRIOR) 
+","TYPE OF SECURITY (ACQUIRED/DISPLOSED) 
+","NO. OF SECURITIES (ACQUIRED/DISPLOSED) 
+","VALUE OF SECURITY (ACQUIRED/DISPLOSED) 
+","ACQUISITION/DISPOSAL TRANSACTION TYPE 
+","TYPE OF SECURITY (POST) 
+","NO. OF SECURITY (POST) 
+","% POST 
+","DATE OF ALLOTMENT/ACQUISITION FROM 
+","DATE OF ALLOTMENT/ACQUISITION TO 
+","DATE OF INITMATION TO COMPANY 
+","MODE OF ACQUISITION 
+","DERIVATIVE TYPE SECURITY 
+","DERIVATIVE CONTRACT SPECIFICATION 
+","NOTIONAL VALUE(BUY) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE (BUY) 
+","NOTIONAL VALUE(SELL) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE  (SELL) 
+","EXCHANGE 
+","REMARK 
+","BROADCASTE DATE AND TIME 
+","XBRL 
+"
+"TFCILTD","Tourism Finance Corporation of India Limited","7(2)","Redkite Capital Private Ltd.","Promoters","Equity Shares","7955382","9.85",,"7882000","292250100","Pledge Invoke","Equity Shares","73382","0.08","18-Jun-2020","03-Jul-2020","03-Jul-2020","Invocation of pledge","-","-","0","0","0","0","NA","-","03-Jul-2020 19:18","https://archives.nseindia.com/corporate/xbrl/IT_1074875_273908_03072020071814_WEB.xml"
+"TFCILTD","Tourism Finance Corporation of India Limited","7(2)","koppara Sajeeve Thomas","Promoter Group","Equity Shares","6683633","8.28",,"750000","27368438","Buy","Equity Shares","7433633","9.21","29-Jun-2020","29-Jun-2020","30-Jun-2020","Market Purchase","-","-","0","0","0","0","BSE,NSE","-","30-Jun-2020 19:10","https://archives.nseindia.com/corporate/xbrl/IT_1074604_272412_30062020071029_WEB.xml"
+"TFCILTD","Tourism Finance Corporation of India Limited","7(2)","koppara Sajeeve Thomas","Promoter Group","Equity Shares","5635633","6.98",,"1048000","37410013","Buy","Equity Shares","6683633","8.28","25-Jun-2020","26-Jun-2020","26-Jun-2020","Market Purchase","-","-","0","0","0","0","BSE,NSE","-","26-Jun-2020 19:10","https://archives.nseindia.com/corporate/xbrl/IT_1074359_269696_26062020071011_WEB.xml"
+"TFCILTD","Tourism Finance Corporation of India Limited","7(2)","koppara Sajeeve Thomas","Promoter Group","Equity Shares","4435633","5.5",,"1200000","45769140","Buy","Equity Shares","5635633","6.98","19-Jun-2020","23-Jun-2020","23-Jun-2020","Market Purchase","-","-","0","0","0","0","BSE,NSE","-","23-Jun-2020 18:42","https://archives.nseindia.com/corporate/xbrl/IT_1074042_267784_23062020064210_WEB.xml"
+"TFCILTD","Tourism Finance Corporation of India Limited","7(2)","koppara Sajeeve Thomas","Promoter Group","Equity Shares","4035633","5",,"400000","15025000","Buy","Equity Shares","4435633","5.5","16-Jun-2020","18-Jun-2020","18-Jun-2020","Market Purchase","-","-","0","0","0","0","BSE,NSE","-","18-Jun-2020 19:11","https://archives.nseindia.com/corporate/xbrl/IT_1073782_266553_18062020071124_WEB.xml"

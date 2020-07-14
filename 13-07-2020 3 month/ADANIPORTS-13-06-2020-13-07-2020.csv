@@ -1,0 +1,41 @@
+﻿"SYMBOL 
+","COMPANY 
+","REGULATION 
+","NAME OF THE ACQUIRER/DISPOSER 
+","CATEGORY OF PERSON 
+","TYPE OF SECURITY (PRIOR) 
+","NO. OF SECURITY (PRIOR) 
+","% SHAREHOLDING (PRIOR) 
+","TYPE OF SECURITY (ACQUIRED/DISPLOSED) 
+","NO. OF SECURITIES (ACQUIRED/DISPLOSED) 
+","VALUE OF SECURITY (ACQUIRED/DISPLOSED) 
+","ACQUISITION/DISPOSAL TRANSACTION TYPE 
+","TYPE OF SECURITY (POST) 
+","NO. OF SECURITY (POST) 
+","% POST 
+","DATE OF ALLOTMENT/ACQUISITION FROM 
+","DATE OF ALLOTMENT/ACQUISITION TO 
+","DATE OF INITMATION TO COMPANY 
+","MODE OF ACQUISITION 
+","DERIVATIVE TYPE SECURITY 
+","DERIVATIVE CONTRACT SPECIFICATION 
+","NOTIONAL VALUE(BUY) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE (BUY) 
+","NOTIONAL VALUE(SELL) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE  (SELL) 
+","EXCHANGE 
+","REMARK 
+","BROADCASTE DATE AND TIME 
+","XBRL 
+"
+"ADANIPORTS","Adani Ports and Special Economic Zone Limited","7(2)","Flourishing Trade and Investment Ltd","Promoter Group","Equity Shares","23587196","1.16",,"719500","249999642","Buy","Equity Shares","24306696","1.2","30-Jun-2020","30-Jun-2020","30-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","01-Jul-2020 19:34","https://archives.nseindia.com/corporate/xbrl/IT_1074705_273231_01072020073408_WEB.xml"
+"ADANIPORTS","Adani Ports and Special Economic Zone Limited","7(2)","Flourishing Trade and Investment Ltd","Promoter Group","Equity Shares","22587196","1.11",,"1000000","342141683","Buy","Equity Shares","23587196","1.16","29-Jun-2020","29-Jun-2020","30-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","30-Jun-2020 16:10","https://archives.nseindia.com/corporate/xbrl/IT_1074558_271935_30062020041024_WEB.xml"
+"ADANIPORTS","Adani Ports and Special Economic Zone Limited","7(2)","Flourishing Trade and Investment Ltd","Promoter Group","Equity Shares","21487196","1.06",,"1100000","377790468","Buy","Equity Shares","22587196","1.11","26-Jun-2020","26-Jun-2020","27-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","27-Jun-2020 13:19","https://archives.nseindia.com/corporate/xbrl/IT_1074400_270007_27062020011919_WEB.xml"
+"ADANIPORTS","Adani Ports and Special Economic Zone Limited","7(2)","Flourishing Trade and Investment Ltd","Promoter Group","Equity Shares","20637196","1.02",,"850000","294032556","Buy","Equity Shares","21487196","1.06","25-Jun-2020","25-Jun-2020","27-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","27-Jun-2020 13:19","https://archives.nseindia.com/corporate/xbrl/IT_1074400_270007_27062020011919_WEB.xml"
+"ADANIPORTS","Adani Ports and Special Economic Zone Limited","7(2)","Kanaiyalal M. Sheth","Immediate relative","Equity Shares","5862","0",,"4000","1424005","Sell","Equity Shares","1862","0","24-Jun-2020","24-Jun-2020","26-Jun-2020","Market Sale","-","-","0","0","0","0","NA","-","26-Jun-2020 16:13","https://archives.nseindia.com/corporate/xbrl/IT_1074324_269353_26062020041325_WEB.xml"
+"ADANIPORTS","Adani Ports and Special Economic Zone Limited","7(2)","Kanaiyalal M. Sheth","Immediate relative","Equity Shares","8862","0",,"3000","1065338","Sell","Equity Shares","5862","0","23-Jun-2020","23-Jun-2020","24-Jun-2020","Market Sale","-","-","0","0","0","0","NSE","-","25-Jun-2020 15:55","https://archives.nseindia.com/corporate/xbrl/IT_1074215_268653_25062020035537_WEB.xml"
+"ADANIPORTS","Adani Ports and Special Economic Zone Limited","7(2)","Rahul Ravi Sheth","Immediate relative","Equity Shares","8623","0",,"8623","2994903","Sell","Equity Shares","Nil","0","23-Jun-2020","23-Jun-2020","24-Jun-2020","Market Sale","-","-","0","0","0","0","NSE","-","25-Jun-2020 15:55","https://archives.nseindia.com/corporate/xbrl/IT_1074215_268653_25062020035537_WEB.xml"
+"ADANIPORTS","Adani Ports and Special Economic Zone Limited","7(2)","Gautam S. Adani & Rajesh S Adani (On behalf of S. B. Adani Family Trust)","Promoter Group","Equity Shares","799353935","39.34",,"1600000","559400000","Pledge Revoke","Equity Shares","799353935","39.34","22-Jun-2020","22-Jun-2020","23-Jun-2020","Revokation of Pledge","-","-","0","0","0","0","NA","-","23-Jun-2020 16:28","https://archives.nseindia.com/corporate/xbrl/IT_1074016_267685_23062020042838_WEB.xml"
+"ADANIPORTS","Adani Ports and Special Economic Zone Limited","7(2)","Gautam S. Adani & Rajesh S Adani (On behalf of S. B. Adani Family Trust)","Promoter Group","Equity Shares","799353935","39.34",,"20700000","7064900000","Pledge Revoke","Equity Shares","799353935","39.34","17-Jun-2020","17-Jun-2020","18-Jun-2020","Revokation of Pledge","-","-","0","0","0","0","NA","-","18-Jun-2020 13:25","https://archives.nseindia.com/corporate/xbrl/IT_1073735_266277_18062020012520_WEB.xml"
+"ADANIPORTS","Adani Ports and Special Economic Zone Limited","7(2)","Gautam S. Adani & Rajesh S Adani (On behalf of S. B. Adani Family Trust)","Promoter Group","Equity Shares","799353935","39.34",,"2600000","886100000","Pledge Revoke","Equity Shares","799353935","39.34","16-Jun-2020","16-Jun-2020","17-Jun-2020","Revokation of Pledge","-","-","0","0","0","0","NA","-","17-Jun-2020 15:30","https://archives.nseindia.com/corporate/xbrl/IT_1073661_265953_17062020033053_WEB.xml"
+"ADANIPORTS","Adani Ports and Special Economic Zone Limited","7(2)","Gautam S. Adani & Rajesh S Adani (On behalf of S. B. Adani Family Trust)","Promoter Group","Equity Shares","799353935","39.34",,"4300000","1460900000","Pledge Revoke","Equity Shares","799353935","39.34","15-Jun-2020","15-Jun-2020","16-Jun-2020","Revokation of Pledge","-","-","0","0","0","0","NA","-","16-Jun-2020 12:14","https://archives.nseindia.com/corporate/xbrl/IT_1073582_265648_16062020121434_WEB.xml"

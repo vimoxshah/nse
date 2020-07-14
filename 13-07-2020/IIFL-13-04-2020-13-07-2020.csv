@@ -1,0 +1,33 @@
+﻿"SYMBOL 
+","COMPANY 
+","REGULATION 
+","NAME OF THE ACQUIRER/DISPOSER 
+","CATEGORY OF PERSON 
+","TYPE OF SECURITY (PRIOR) 
+","NO. OF SECURITY (PRIOR) 
+","% SHAREHOLDING (PRIOR) 
+","TYPE OF SECURITY (ACQUIRED/DISPLOSED) 
+","NO. OF SECURITIES (ACQUIRED/DISPLOSED) 
+","VALUE OF SECURITY (ACQUIRED/DISPLOSED) 
+","ACQUISITION/DISPOSAL TRANSACTION TYPE 
+","TYPE OF SECURITY (POST) 
+","NO. OF SECURITY (POST) 
+","% POST 
+","DATE OF ALLOTMENT/ACQUISITION FROM 
+","DATE OF ALLOTMENT/ACQUISITION TO 
+","DATE OF INITMATION TO COMPANY 
+","MODE OF ACQUISITION 
+","DERIVATIVE TYPE SECURITY 
+","DERIVATIVE CONTRACT SPECIFICATION 
+","NOTIONAL VALUE(BUY) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE (BUY) 
+","NOTIONAL VALUE(SELL) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE  (SELL) 
+","EXCHANGE 
+","REMARK 
+","BROADCASTE DATE AND TIME 
+","XBRL 
+"
+"IIFL","IIFL Finance Limited","7(2)","JAYANTH RANGANATHAN","Other","Equity Shares","21900","0.01",,"21900","1584797","Sell","Equity Shares","Nil","0","16-Jun-2020","29-Jun-2020","30-Jun-2020","Market Sale","-","-","0","0","0","0","NSE","-","02-Jul-2020 18:04","https://archives.nseindia.com/corporate/xbrl/IT_1074796_273563_02072020060450_WEB.xml"
+"IIFL","IIFL Finance Limited","7(2)","Ardent Impex Pvt Ltd","Promoter Group","Equity Shares","3518904","0.93",,"250000","19914806","Sell","Equity Shares","3268904","0.86","25-Jun-2020","25-Jun-2020","25-Jun-2020","Market Sale","-","-","0","0","0","0","NSE","-","25-Jun-2020 15:11","https://archives.nseindia.com/corporate/xbrl/IT_1074209_268627_25062020031159_WEB.xml"
+"IIFL","IIFL Finance Limited","7(2)","Nirmal Bhanwarlal Jain","Promoters","Equity Shares","47265154","12.49",,"454000","34034485","Buy","Equity Shares","47719154","12.61","24-Jun-2020","24-Jun-2020","24-Jun-2020","Market Purchase","-","-","0","0","0","0","BSE,NSE","-","24-Jun-2020 19:38","https://archives.nseindia.com/corporate/xbrl/IT_1074149_268334_24062020073855_WEB.xml"

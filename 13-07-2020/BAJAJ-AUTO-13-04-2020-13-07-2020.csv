@@ -1,0 +1,40 @@
+﻿"SYMBOL 
+","COMPANY 
+","REGULATION 
+","NAME OF THE ACQUIRER/DISPOSER 
+","CATEGORY OF PERSON 
+","TYPE OF SECURITY (PRIOR) 
+","NO. OF SECURITY (PRIOR) 
+","% SHAREHOLDING (PRIOR) 
+","TYPE OF SECURITY (ACQUIRED/DISPLOSED) 
+","NO. OF SECURITIES (ACQUIRED/DISPLOSED) 
+","VALUE OF SECURITY (ACQUIRED/DISPLOSED) 
+","ACQUISITION/DISPOSAL TRANSACTION TYPE 
+","TYPE OF SECURITY (POST) 
+","NO. OF SECURITY (POST) 
+","% POST 
+","DATE OF ALLOTMENT/ACQUISITION FROM 
+","DATE OF ALLOTMENT/ACQUISITION TO 
+","DATE OF INITMATION TO COMPANY 
+","MODE OF ACQUISITION 
+","DERIVATIVE TYPE SECURITY 
+","DERIVATIVE CONTRACT SPECIFICATION 
+","NOTIONAL VALUE(BUY) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE (BUY) 
+","NOTIONAL VALUE(SELL) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE  (SELL) 
+","EXCHANGE 
+","REMARK 
+","BROADCASTE DATE AND TIME 
+","XBRL 
+"
+"BAJAJ-AUTO","Bajaj Auto Limited","7(2)","Vanraj Bajaj","Immediate relative","Equity Shares","Nil","0",,"13822","40557894","Buy","Equity Shares","13822","0","03-Jul-2020","03-Jul-2020","03-Jul-2020","Off Market","-","-","0","0","0","0","NA","-","07-Jul-2020 15:48","https://archives.nseindia.com/corporate/xbrl/IT_1074943_275219_07072020034814_WEB.xml"
+"BAJAJ-AUTO","Bajaj Auto Limited","7(2)","Vanraj Bajaj","Immediate relative","Equity Shares","13822","0",,"13822","40557894","Pledge","Equity Shares","13822","0","03-Jul-2020","03-Jul-2020","03-Jul-2020","Off Market","-","-","0","0","0","0","NA","-","07-Jul-2020 15:48","https://archives.nseindia.com/corporate/xbrl/IT_1074943_275219_07072020034814_WEB.xml"
+"BAJAJ-AUTO","Bajaj Auto Limited","7(2)","Late Shri Anant Bajaj","Promoter Group","Equity Shares","41464","0.01",,"13822","40557894","Sell","Equity Shares","27642","0.01","03-Jul-2020","03-Jul-2020","07-Jul-2020","Off Market","-","-","0","0","0","0","NA","-","07-Jul-2020 15:42","https://archives.nseindia.com/corporate/xbrl/IT_1074941_275210_07072020034203_WEB.xml"
+"BAJAJ-AUTO","Bajaj Auto Limited","7(2)","Rishabnayan Bajaj","Promoters","Equity Shares","4100","0",,"3000","8364247","Sell","Equity Shares","1100","0","25-Jun-2020","25-Jun-2020","26-Jun-2020","Inter-se-Transfer","-","-","0","0","0","0","BSE","-","29-Jun-2020 11:54","https://archives.nseindia.com/corporate/xbrl/IT_1074433_270764_29062020115452_WEB.xml"
+"BAJAJ-AUTO","Bajaj Auto Limited","7(2)","Deepa Bajaj","Promoter Group","Equity Shares","427150","0.15",,"3000","8405752","Buy","Equity Shares","430150","0.15","25-Jun-2020","25-Jun-2020","26-Jun-2020","Inter-se-Transfer","-","-","0","0","0","0","BSE","-","29-Jun-2020 11:54","https://archives.nseindia.com/corporate/xbrl/IT_1074433_270764_29062020115452_WEB.xml"
+"BAJAJ-AUTO","Bajaj Auto Limited","7(2)","Deepa Bajaj","Promoter Group","Equity Shares","387150","0.13",,"15000","40554268","Buy","Equity Shares","402150","0.13","17-Jun-2020","17-Jun-2020","19-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","23-Jun-2020 15:34","https://archives.nseindia.com/corporate/xbrl/IT_1074005_267657_23062020033400_WEB.xml"
+"BAJAJ-AUTO","Bajaj Auto Limited","7(2)","Deepa Bajaj","Promoter Group","Equity Shares","402150","0.15",,"25000","67556539","Buy","Equity Shares","427150","0.15","19-Jun-2020","19-Jun-2020","19-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","23-Jun-2020 15:34","https://archives.nseindia.com/corporate/xbrl/IT_1074005_267657_23062020033400_WEB.xml"
+"BAJAJ-AUTO","Bajaj Auto Limited","7(2)","Deepa Bajaj","Promoter Group","Equity Shares","362150","0.13",,"12500","34713406","Buy","Equity Shares","374650","0.13","10-Jun-2020","10-Jun-2020","12-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","16-Jun-2020 11:57","https://archives.nseindia.com/corporate/xbrl/IT_1073580_265642_16062020115724_WEB.xml"
+"BAJAJ-AUTO","Bajaj Auto Limited","7(2)","Deepa Bajaj","Promoter Group","Equity Shares","374650","0.13",,"12500","33625821","Buy","Equity Shares","387150","0.13","12-Jun-2020","12-Jun-2020","12-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","16-Jun-2020 11:57","https://archives.nseindia.com/corporate/xbrl/IT_1073580_265642_16062020115724_WEB.xml"
+"BAJAJ-AUTO","Bajaj Auto Limited","7(2)","Deepa Bajaj","Promoter Group","Equity Shares","332150","0.11",,"30000","77022115","Buy","Equity Shares","362150","0.12","26-May-2020","26-May-2020","28-May-2020","Market Purchase","-","-","0","0","0","0","NSE","-","29-May-2020 13:10","https://archives.nseindia.com/corporate/xbrl/IT_1072774_262050_29052020011054_WEB.xml"

@@ -1,0 +1,34 @@
+﻿"SYMBOL 
+","COMPANY 
+","REGULATION 
+","NAME OF THE ACQUIRER/DISPOSER 
+","CATEGORY OF PERSON 
+","TYPE OF SECURITY (PRIOR) 
+","NO. OF SECURITY (PRIOR) 
+","% SHAREHOLDING (PRIOR) 
+","TYPE OF SECURITY (ACQUIRED/DISPLOSED) 
+","NO. OF SECURITIES (ACQUIRED/DISPLOSED) 
+","VALUE OF SECURITY (ACQUIRED/DISPLOSED) 
+","ACQUISITION/DISPOSAL TRANSACTION TYPE 
+","TYPE OF SECURITY (POST) 
+","NO. OF SECURITY (POST) 
+","% POST 
+","DATE OF ALLOTMENT/ACQUISITION FROM 
+","DATE OF ALLOTMENT/ACQUISITION TO 
+","DATE OF INITMATION TO COMPANY 
+","MODE OF ACQUISITION 
+","DERIVATIVE TYPE SECURITY 
+","DERIVATIVE CONTRACT SPECIFICATION 
+","NOTIONAL VALUE(BUY) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE (BUY) 
+","NOTIONAL VALUE(SELL) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE  (SELL) 
+","EXCHANGE 
+","REMARK 
+","BROADCASTE DATE AND TIME 
+","XBRL 
+"
+"SHK","S H Kelkar and Company Limited","7(2)","Kedar Vaze","Promoters","Equity Shares","16934614","11.98",,"320000","21777751","Buy","Equity Shares","17254614","12.21","12-Jun-2020","12-Jun-2020","15-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","15-Jun-2020 17:16","https://archives.nseindia.com/corporate/xbrl/IT_1073538_265457_15062020051628_WEB.xml"
+"SHK","S H Kelkar and Company Limited","7(2)","Kedar Vaze","Promoters","Equity Shares","15380614","10.88",,"1554000","101720797","Buy","Equity Shares","16934614","11.98","05-Jun-2020","05-Jun-2020","08-Jun-2020","Market Purchase","-","-","0","0","0","0","BSE","-","08-Jun-2020 17:38","https://archives.nseindia.com/corporate/xbrl/IT_1073175_264109_08062020053803_WEB.xml"
+"SHK","S H Kelkar and Company Limited","7(2)","Kedar Vaze","Promoters","Equity Shares","14530614","10.28",,"850000","50031893","Buy","Equity Shares","15380614","10.88","01-Jun-2020","01-Jun-2020","02-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","02-Jun-2020 18:58","https://archives.nseindia.com/corporate/xbrl/IT_1072931_263128_02062020065810_WEB.xml"
+"SHK","S H Kelkar and Company Limited","7(2)","Kedar Vaze","Promoters","Equity Shares","14102600","9.98",,"428014","23626452","Buy","Equity Shares","14530614","10.28","29-May-2020","29-May-2020","02-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","02-Jun-2020 18:58","https://archives.nseindia.com/corporate/xbrl/IT_1072931_263128_02062020065810_WEB.xml"

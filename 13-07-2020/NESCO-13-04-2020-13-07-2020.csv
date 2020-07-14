@@ -1,0 +1,41 @@
+﻿"SYMBOL 
+","COMPANY 
+","REGULATION 
+","NAME OF THE ACQUIRER/DISPOSER 
+","CATEGORY OF PERSON 
+","TYPE OF SECURITY (PRIOR) 
+","NO. OF SECURITY (PRIOR) 
+","% SHAREHOLDING (PRIOR) 
+","TYPE OF SECURITY (ACQUIRED/DISPLOSED) 
+","NO. OF SECURITIES (ACQUIRED/DISPLOSED) 
+","VALUE OF SECURITY (ACQUIRED/DISPLOSED) 
+","ACQUISITION/DISPOSAL TRANSACTION TYPE 
+","TYPE OF SECURITY (POST) 
+","NO. OF SECURITY (POST) 
+","% POST 
+","DATE OF ALLOTMENT/ACQUISITION FROM 
+","DATE OF ALLOTMENT/ACQUISITION TO 
+","DATE OF INITMATION TO COMPANY 
+","MODE OF ACQUISITION 
+","DERIVATIVE TYPE SECURITY 
+","DERIVATIVE CONTRACT SPECIFICATION 
+","NOTIONAL VALUE(BUY) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE (BUY) 
+","NOTIONAL VALUE(SELL) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE  (SELL) 
+","EXCHANGE 
+","REMARK 
+","BROADCASTE DATE AND TIME 
+","XBRL 
+"
+"NESCO","Nesco Limited","7(2)","PATEL CONSULTANCY SERVICES PRIVATE LIMITED","Promoter Group","Equity Shares","5353000","7.6",,"9500","4294328","Buy","Equity Shares","5362500","7.61","18-Jun-2020","18-Jun-2020","20-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","22-Jun-2020 16:36","https://archives.nseindia.com/corporate/xbrl/IT_1073950_267417_22062020043622_WEB.xml"
+"NESCO","Nesco Limited","7(2)","PATEL CONSULTANCY SERVICES PRIVATE LIMITED","Promoter Group","Equity Shares","5348000","7.59",,"5000","2260107","Buy","Equity Shares","5353000","7.6","16-Jun-2020","17-Jun-2020","18-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","19-Jun-2020 23:56","https://archives.nseindia.com/corporate/xbrl/IT_1073885_266983_19062020115645_WEB.xml"
+"NESCO","Nesco Limited","7(2)","PATEL CONSULTANCY SERVICES PRIVATE LIMITED","Promoter Group","Equity Shares","5335500","7.57",,"12500","5699015","Buy","Equity Shares","5348000","7.59","15-Jun-2020","15-Jun-2020","16-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","16-Jun-2020 17:13","https://archives.nseindia.com/corporate/xbrl/IT_1073602_265772_16062020051328_WEB.xml"
+"NESCO","Nesco Limited","7(2)","CHANDLER & PRICE (I) PVT. LTD.","Promoter Group","Equity Shares","19572888","27.78",,"10000","4421769","Buy","Equity Shares","19582888","27.79","12-Jun-2020","12-Jun-2020","15-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","15-Jun-2020 22:35","https://archives.nseindia.com/corporate/xbrl/IT_1073568_265580_15062020103502_WEB.xml"
+"NESCO","Nesco Limited","7(2)","CHANDLER & PRICE (I) PVT. LTD.","Promoter Group","Equity Shares","19562888","27.77",,"10000","4554663","Buy","Equity Shares","19572888","27.78","11-Jun-2020","11-Jun-2020","13-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","13-Jun-2020 23:37","https://archives.nseindia.com/corporate/xbrl/IT_1073512_265336_13062020113740_WEB.xml"
+"NESCO","Nesco Limited","7(2)","CHANDLER & PRICE (I) PVT. LTD.","Promoter Group","Equity Shares","19543500","27.74",,"19388","8826321","Buy","Equity Shares","19562888","27.77","09-Jun-2020","10-Jun-2020","11-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","12-Jun-2020 11:13","https://archives.nseindia.com/corporate/xbrl/IT_1073440_264961_12062020111342_WEB.xml"
+"NESCO","Nesco Limited","7(2)","CHANDLER & PRICE (I) PVT. LTD.","Promoter Group","Equity Shares","19535927","27.73",,"7573","3526308","Buy","Equity Shares","19543500","27.74","05-Jun-2020","05-Jun-2020","07-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","08-Jun-2020 17:48","https://archives.nseindia.com/corporate/xbrl/IT_1073178_264112_08062020054807_WEB.xml"
+"NESCO","Nesco Limited","7(2)","CHANDLER & PRICE (I) PVT. LTD.","Promoter Group","Equity Shares","19509927","27.69",,"26000","11986021","Buy","Equity Shares","19535927","27.73","03-Jun-2020","04-Jun-2020","05-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","06-Jun-2020 23:47","https://archives.nseindia.com/corporate/xbrl/IT_1073153_264030_06062020114710_WEB.xml"
+"NESCO","Nesco Limited","7(2)","CHANDLER & PRICE (I) PVT. LTD.","Promoter Group","Equity Shares","19483042","27.65",,"26885","11937311","Buy","Equity Shares","19509927","27.69","01-Jun-2020","02-Jun-2020","03-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","04-Jun-2020 19:05","https://archives.nseindia.com/corporate/xbrl/IT_1073052_263514_04062020070556_WEB.xml"
+"NESCO","Nesco Limited","7(2)","CHANDLER & PRICE (I) PVT. LTD.","Promoter Group","Equity Shares","19472542","27.64",,"10500","4118307","Buy","Equity Shares","19483042","27.65","26-May-2020","27-May-2020","28-May-2020","Market Purchase","-","-","0","0","0","0","NSE","-","29-May-2020 16:43","https://archives.nseindia.com/corporate/xbrl/IT_1072780_262190_29052020044340_WEB.xml"
+"NESCO","Nesco Limited","7(2)","CHANDLER & PRICE (I) PVT. LTD.","Promoter Group","Equity Shares","19461542","27.62",,"11000","4318123","Buy","Equity Shares","19472542","27.64","22-May-2020","22-May-2020","25-May-2020","Market Purchase","-","-","0","0","0","0","NSE","-","26-May-2020 23:33","https://archives.nseindia.com/corporate/xbrl/IT_1072695_261290_26052020113336_WEB.xml"

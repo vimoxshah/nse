@@ -1,0 +1,45 @@
+﻿"SYMBOL 
+","COMPANY 
+","REGULATION 
+","NAME OF THE ACQUIRER/DISPOSER 
+","CATEGORY OF PERSON 
+","TYPE OF SECURITY (PRIOR) 
+","NO. OF SECURITY (PRIOR) 
+","% SHAREHOLDING (PRIOR) 
+","TYPE OF SECURITY (ACQUIRED/DISPLOSED) 
+","NO. OF SECURITIES (ACQUIRED/DISPLOSED) 
+","VALUE OF SECURITY (ACQUIRED/DISPLOSED) 
+","ACQUISITION/DISPOSAL TRANSACTION TYPE 
+","TYPE OF SECURITY (POST) 
+","NO. OF SECURITY (POST) 
+","% POST 
+","DATE OF ALLOTMENT/ACQUISITION FROM 
+","DATE OF ALLOTMENT/ACQUISITION TO 
+","DATE OF INITMATION TO COMPANY 
+","MODE OF ACQUISITION 
+","DERIVATIVE TYPE SECURITY 
+","DERIVATIVE CONTRACT SPECIFICATION 
+","NOTIONAL VALUE(BUY) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE (BUY) 
+","NOTIONAL VALUE(SELL) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE  (SELL) 
+","EXCHANGE 
+","REMARK 
+","BROADCASTE DATE AND TIME 
+","XBRL 
+"
+"NCC","NCC Limited","7(2)","Y D MURTHY","Employees/Designated Employees","Equity Shares","65900","0",,"34100","1014216","Buy","Equity Shares","100000","0.02","08-Jun-2020","29-Jun-2020","01-Jul-2020","Market Purchase","-","-","0","0","0","0","BSE,NSE","-","03-Jul-2020 14:48","https://archives.nseindia.com/corporate/xbrl/IT_1074854_273758_03072020024824_WEB.xml"
+"NCC","NCC Limited","7(2)","A V S R HOLDINGS PRIVATE LIMITED","Promoters","Equity Shares","58816174","9.64",,"2255051","68373031","Buy","Equity Shares","61071225","10.01","29-Jun-2020","29-Jun-2020","30-Jun-2020","Market Purchase","-","-","0","0","0","0","BSE,NSE","-","03-Jul-2020 13:25","https://archives.nseindia.com/corporate/xbrl/IT_1074848_273733_03072020012535_WEB.xml"
+"NCC","NCC Limited","7(2)","A V N RAJU","Promoters","Equity Shares","7985791","1.31",,"2255051","68347333","Sell","Equity Shares","5730740","0.94","29-Jun-2020","29-Jun-2020","30-Jun-2020","Market Sale","-","-","0","0","0","0","BSE,NSE","-","03-Jul-2020 13:10","https://archives.nseindia.com/corporate/xbrl/IT_1074845_273728_03072020011015_WEB.xml"
+"NCC","NCC Limited","7(2)","A V S R HOLDINGS PRIVATE LIMITED","Promoters","Equity Shares","57285278","9.39",,"1530896","47482708","Buy","Equity Shares","58816174","9.64","22-Jun-2020","22-Jun-2020","23-Jun-2020","Market Purchase","-","-","0","0","0","0","BSE,NSE","-","23-Jun-2020 16:05","https://archives.nseindia.com/corporate/xbrl/IT_1074012_267674_23062020040554_WEB.xml"
+"NCC","NCC Limited","7(2)","SRINIVAS RAMA RAJU ALLURI","Promoters","Equity Shares","1704896","0.28",,"1530896","47468010","Sell","Equity Shares","174000","0.03","22-Jun-2020","22-Jun-2020","23-Jun-2020","Market Sale","-","-","0","0","0","0","BSE,NSE","-","23-Jun-2020 16:05","https://archives.nseindia.com/corporate/xbrl/IT_1074012_267674_23062020040554_WEB.xml"
+"NCC","NCC Limited","7(2)","SRINIVAS RAMA RAJU ALLURI","Promoters","Equity Shares","2018668","0.33",,"313772","9137076","Sell","Equity Shares","1704896","0.28","18-Jun-2020","18-Jun-2020","19-Jun-2020","Market Sale","-","-","0","0","0","0","BSE,NSE","-","22-Jun-2020 11:25","https://archives.nseindia.com/corporate/xbrl/IT_1073930_267325_22062020112549_WEB.xml"
+"NCC","NCC Limited","7(2)","ALLURI NARAYANA RAJU","Promoters","Equity Shares","4094806","0.67",,"2083228","60575548","Sell","Equity Shares","2011578","0.33","18-Jun-2020","18-Jun-2020","19-Jun-2020","Market Sale","-","-","0","0","0","0","BSE,NSE","-","22-Jun-2020 11:25","https://archives.nseindia.com/corporate/xbrl/IT_1073930_267325_22062020112549_WEB.xml"
+"NCC","NCC Limited","7(2)","A V S R HOLDINGS PRIVATE LIMITED","Promoters","Equity Shares","54888278","9",,"2397000","69723813","Buy","Equity Shares","57285278","9.39","18-Jun-2020","18-Jun-2020","19-Jun-2020","Market Purchase","-","-","0","0","0","0","BSE,NSE","-","22-Jun-2020 11:25","https://archives.nseindia.com/corporate/xbrl/IT_1073930_267325_22062020112549_WEB.xml"
+"NCC","NCC Limited","7(2)","ALLURI NARAYANA RAJU","Promoters","Equity Shares","6487806","1.06",,"2393000","70006998","Sell","Equity Shares","4094806","0.67","16-Jun-2020","16-Jun-2020","17-Jun-2020","Market Sale","-","-","0","0","0","0","BSE,NSE","-","19-Jun-2020 15:08","https://archives.nseindia.com/corporate/xbrl/IT_1073820_266755_19062020030856_WEB.xml"
+"NCC","NCC Limited","7(2)","ALLURI SHYAMA","Promoter Group","Equity Shares","474902","0.07",,"89000","1483014","Buy","Equity Shares","563902","0.09","31-Mar-2020","31-Mar-2020","02-Apr-2020","Market Purchase","-","-","0","0","0","0","BSE,NSE","-","19-Jun-2020 15:08","https://archives.nseindia.com/corporate/xbrl/IT_1073820_266755_19062020030856_WEB.xml"
+"NCC","NCC Limited","7(2)","A V S R HOLDINGS PRIVATE LIMITED","Promoters","Equity Shares","52495278","8.61",,"2393000","70019780","Buy","Equity Shares","54888278","9","16-Jun-2020","16-Jun-2020","17-Jun-2020","Market Purchase","-","-","0","0","0","0","BSE,NSE","-","19-Jun-2020 15:08","https://archives.nseindia.com/corporate/xbrl/IT_1073820_266755_19062020030856_WEB.xml"
+"NCC","NCC Limited","7(2)","ALLURI NARAYANA RAJU","Promoters","Equity Shares","8858806","1.45",,"2371000","69534000","Sell","Equity Shares","6487806","1.06","12-Jun-2020","12-Jun-2020","13-Jun-2020","Market Sale","-","-","0","0","0","0","BSE,NSE","-","16-Jun-2020 11:56","https://archives.nseindia.com/corporate/xbrl/IT_1073579_265640_16062020115638_WEB.xml"
+"NCC","NCC Limited","7(2)","SIRISHA PROJECTS PRIVATE LIMITEDS","Promoters","Equity Shares","12222669","2",,"666000","19916151","Buy","Equity Shares","12888669","2.11","12-Jun-2020","12-Jun-2020","13-Jun-2020","Market Purchase","-","-","0","0","0","0","BSE,NSE","-","16-Jun-2020 11:56","https://archives.nseindia.com/corporate/xbrl/IT_1073579_265640_16062020115638_WEB.xml"
+"NCC","NCC Limited","7(2)","SRINIVAS RAMA RAJU ALLURI","Promoters","Equity Shares","3076668","0.5",,"1058000","30100420","Sell","Equity Shares","2018668","0.33","12-Jun-2020","12-Jun-2020","13-Jun-2020","Market Sale","-","-","0","0","0","0","BSE,NSE","-","16-Jun-2020 11:56","https://archives.nseindia.com/corporate/xbrl/IT_1073579_265640_16062020115638_WEB.xml"
+"NCC","NCC Limited","7(2)","A V S R HOLDINGS PRIVATE LIMITED","Promoters","Equity Shares","49732278","8.15",,"2763000","79757282","Buy","Equity Shares","52495278","8.61","12-Jun-2020","12-Jun-2020","13-Jun-2020","Market Purchase","-","-","0","0","0","0","BSE,NSE","-","16-Jun-2020 11:56","https://archives.nseindia.com/corporate/xbrl/IT_1073579_265640_16062020115638_WEB.xml"

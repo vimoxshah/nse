@@ -1,0 +1,47 @@
+﻿"SYMBOL 
+","COMPANY 
+","REGULATION 
+","NAME OF THE ACQUIRER/DISPOSER 
+","CATEGORY OF PERSON 
+","TYPE OF SECURITY (PRIOR) 
+","NO. OF SECURITY (PRIOR) 
+","% SHAREHOLDING (PRIOR) 
+","TYPE OF SECURITY (ACQUIRED/DISPLOSED) 
+","NO. OF SECURITIES (ACQUIRED/DISPLOSED) 
+","VALUE OF SECURITY (ACQUIRED/DISPLOSED) 
+","ACQUISITION/DISPOSAL TRANSACTION TYPE 
+","TYPE OF SECURITY (POST) 
+","NO. OF SECURITY (POST) 
+","% POST 
+","DATE OF ALLOTMENT/ACQUISITION FROM 
+","DATE OF ALLOTMENT/ACQUISITION TO 
+","DATE OF INITMATION TO COMPANY 
+","MODE OF ACQUISITION 
+","DERIVATIVE TYPE SECURITY 
+","DERIVATIVE CONTRACT SPECIFICATION 
+","NOTIONAL VALUE(BUY) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE (BUY) 
+","NOTIONAL VALUE(SELL) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE  (SELL) 
+","EXCHANGE 
+","REMARK 
+","BROADCASTE DATE AND TIME 
+","XBRL 
+"
+"CYIENT","Cyient Limited","7(2)","Vikas Sehgal","Director","Equity Shares","738570","0.67",,"103500","28310355","Buy","Equity Shares","842070","0.77","29-Jun-2020","29-Jun-2020","30-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","01-Jul-2020 17:00","https://archives.nseindia.com/corporate/xbrl/IT_1074661_273082_01072020050030_WEB.xml"
+"CYIENT","Cyient Limited","7(2)","BVR Mohan Reddy","Promoters","Equity Shares","1515012","1.38",,"116050","31760564","Buy","Equity Shares","1631062","1.48","26-Jun-2020","29-Jun-2020","30-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","01-Jul-2020 17:00","https://archives.nseindia.com/corporate/xbrl/IT_1074661_273082_01072020050030_WEB.xml"
+"CYIENT","Cyient Limited","7(2)","B Sucharitha","Promoters","Equity Shares","1083458","0.99",,"148169","40639793","Buy","Equity Shares","1231627","1.12","25-Jun-2020","29-Jun-2020","30-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","01-Jul-2020 17:00","https://archives.nseindia.com/corporate/xbrl/IT_1074661_273082_01072020050030_WEB.xml"
+"CYIENT","Cyient Limited","7(2)","BODANAPU AVANTI REDDY","Immediate relative","Equity Shares","122500","0.11",,"10000","2722400","Buy","Equity Shares","132500","0.12","24-Jun-2020","24-Jun-2020","25-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","27-Jun-2020 21:30","https://archives.nseindia.com/corporate/xbrl/IT_1074413_270476_27062020093030_WEB.xml"
+"CYIENT","Cyient Limited","7(2)","B Sucharitha","Promoters","Equity Shares","1027883","0.93",,"55575","13414138","Buy","Equity Shares","1083458","0.99","22-Jun-2020","24-Jun-2020","24-Jun-2020","Market Purchase","-","-","0","0","0","0","BSE,NSE","-","25-Jun-2020 16:12","https://archives.nseindia.com/corporate/xbrl/IT_1074222_268680_25062020041200_WEB.xml"
+"CYIENT","Cyient Limited","7(2)","B Sucharitha","Promoters","Equity Shares","967883","0.88",,"60000","12819000","Buy","Equity Shares","1027883","0.93","16-Jun-2020","19-Jun-2020","19-Jun-2020","Market Purchase","-","-","0","0","0","0","BSE,NSE","-","20-Jun-2020 20:51","https://archives.nseindia.com/corporate/xbrl/IT_1073917_267181_20062020085116_WEB.xml"
+"CYIENT","Cyient Limited","7(2)","BODANAPU AVANTI REDDY","Immediate relative","Equity Shares","100000","0.09",,"22500","4975200","Buy","Equity Shares","122500","0.11","19-Jun-2020","19-Jun-2020","19-Jun-2020","Market Purchase","-","-","0","0","0","0","BSE,NSE","-","20-Jun-2020 20:51","https://archives.nseindia.com/corporate/xbrl/IT_1073917_267181_20062020085116_WEB.xml"
+"CYIENT","Cyient Limited","7(2)","B Sucharitha","Promoters","Equity Shares","947883","0.86",,"20000","4271950","Buy","Equity Shares","967883","0.88","12-Jun-2020","12-Jun-2020","13-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","15-Jun-2020 15:33","https://archives.nseindia.com/corporate/xbrl/IT_1073524_265397_15062020033301_WEB.xml"
+"CYIENT","Cyient Limited","7(2)","Vikas Sehgal","Director","Equity Shares","649200","0.59",,"89370","18878662","Buy","Equity Shares","738570","0.67","03-Jun-2020","04-Jun-2020","07-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","09-Jun-2020 18:44","https://archives.nseindia.com/corporate/xbrl/IT_1073279_264358_09062020064432_WEB.xml"
+"CYIENT","Cyient Limited","7(2)","B Sucharitha","Promoters","Equity Shares","932883","0.85",,"15000","3013050","Buy","Equity Shares","947883","0.86","29-May-2020","29-May-2020","29-May-2020","Market Purchase","-","-","0","0","0","0","NSE","-","31-May-2020 21:00","https://archives.nseindia.com/corporate/xbrl/IT_1072833_262838_31052020090047_WEB.xml"
+"CYIENT","Cyient Limited","7(2)","BVR Mohan Reddy","Promoters","Equity Shares","1508254","1.37",,"6758","1321437","Buy","Equity Shares","1515012","1.38","27-May-2020","28-May-2020","29-May-2020","Market Purchase","-","-","0","0","0","0","BSE,NSE","-","31-May-2020 21:00","https://archives.nseindia.com/corporate/xbrl/IT_1072833_262838_31052020090047_WEB.xml"
+"CYIENT","Cyient Limited","7(2)","Anand Parameswaran","Employees/Designated Employees","Equity Shares","50168","0.05",,"24900","4875150","Buy","Equity Shares","75068","0.07","25-May-2020","27-May-2020","29-May-2020","Market Purchase","-","-","0","0","0","0","NSE","-","31-May-2020 21:00","https://archives.nseindia.com/corporate/xbrl/IT_1072833_262838_31052020090047_WEB.xml"
+"CYIENT","Cyient Limited","7(2)","Vikas Sehgal","Director","Equity Shares","591500","0.54",,"57700","110554500","Buy","Equity Shares","649200","0.59","22-May-2020","28-May-2020","28-May-2020","Market Purchase","-","-","0","0","0","0","NSE","-","28-May-2020 22:42","https://archives.nseindia.com/corporate/xbrl/IT_1072763_261896_28052020104223_WEB.xml"
+"CYIENT","Cyient Limited","7(2)","BVR Mohan Reddy","Promoters","Equity Shares","1453254","1.32",,"55000","10353000","Buy","Equity Shares","1508254","1.37","22-May-2020","26-May-2020","26-May-2020","Market Purchase","-","-","0","0","0","0","NSE","-","26-May-2020 21:06","https://archives.nseindia.com/corporate/xbrl/IT_1072692_261281_26052020090648_WEB.xml"
+"CYIENT","Cyient Limited","7(2)","BODANAPU AVANTI REDDY","Immediate relative","Equity Shares","Nil","0",,"100000","19495750","Buy","Equity Shares","100000","0.09","18-May-2020","22-May-2020","22-May-2020","Market Purchase","-","-","0","0","0","0","NSE","-","22-May-2020 17:21","https://archives.nseindia.com/corporate/xbrl/IT_1072599_260503_22052020052146_WEB.xml"
+"CYIENT","Cyient Limited","7(2)","Karthikeyan Natarajan","Key Managerial Personnel","Equity Shares","1500","0",,"20000","3911941","Buy","Equity Shares","21500","0.02","18-May-2020","18-May-2020","20-May-2020","Market Purchase","-","-","0","0","0","0","NSE","-","21-May-2020 16:34","https://archives.nseindia.com/corporate/xbrl/IT_1072565_260209_21052020043409_WEB.xml"
+"CYIENT","Cyient Limited","7(2)","Vikas Sehgal","Director","Equity Shares","231040","0.21",,"360460","74290806","Buy","Equity Shares","591500","0.54","13-May-2020","14-May-2020","17-May-2020","Market Purchase","-","-","0","0","0","0","NSE","-","18-May-2020 20:58","https://archives.nseindia.com/corporate/xbrl/IT_1072476_259338_18052020085804_WEB.xml"

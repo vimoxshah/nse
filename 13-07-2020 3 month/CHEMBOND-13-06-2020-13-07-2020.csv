@@ -1,0 +1,44 @@
+﻿"SYMBOL 
+","COMPANY 
+","REGULATION 
+","NAME OF THE ACQUIRER/DISPOSER 
+","CATEGORY OF PERSON 
+","TYPE OF SECURITY (PRIOR) 
+","NO. OF SECURITY (PRIOR) 
+","% SHAREHOLDING (PRIOR) 
+","TYPE OF SECURITY (ACQUIRED/DISPLOSED) 
+","NO. OF SECURITIES (ACQUIRED/DISPLOSED) 
+","VALUE OF SECURITY (ACQUIRED/DISPLOSED) 
+","ACQUISITION/DISPOSAL TRANSACTION TYPE 
+","TYPE OF SECURITY (POST) 
+","NO. OF SECURITY (POST) 
+","% POST 
+","DATE OF ALLOTMENT/ACQUISITION FROM 
+","DATE OF ALLOTMENT/ACQUISITION TO 
+","DATE OF INITMATION TO COMPANY 
+","MODE OF ACQUISITION 
+","DERIVATIVE TYPE SECURITY 
+","DERIVATIVE CONTRACT SPECIFICATION 
+","NOTIONAL VALUE(BUY) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE (BUY) 
+","NOTIONAL VALUE(SELL) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE  (SELL) 
+","EXCHANGE 
+","REMARK 
+","BROADCASTE DATE AND TIME 
+","XBRL 
+"
+"CHEMBOND","Chembond Chemicals Ltd","7(2)","Sameer V Shah HUF","Promoter Group","Equity Shares","103981","0.77",,"3400","498100","Buy","Equity Shares","107381","0.8","30-Jun-2020","30-Jun-2020","02-Jul-2020","Market Purchase","-","-","0","0","0","0","BSE","-","02-Jul-2020 21:43","https://archives.nseindia.com/corporate/xbrl/IT_1074821_273637_02072020094311_WEB.xml"
+"CHEMBOND","Chembond Chemicals Ltd","7(2)","Finor Piplaj Chemicals Limited","Promoter Group","Equity Shares","273488","2.03",,"3400","498100","Buy","Equity Shares","276888","2.06","30-Jun-2020","30-Jun-2020","02-Jul-2020","Market Purchase","-","-","0","0","0","0","BSE","-","02-Jul-2020 21:43","https://archives.nseindia.com/corporate/xbrl/IT_1074821_273637_02072020094311_WEB.xml"
+"CHEMBOND","Chembond Chemicals Ltd","7(2)","Finor Piplaj Chemicals Limited","Promoter Group","Equity Shares","276888","2.06",,"7000","1019550","Buy","Equity Shares","283888","2.11","30-Jun-2020","30-Jun-2020","02-Jul-2020","Market Purchase","-","-","0","0","0","0","NSE","-","02-Jul-2020 21:43","https://archives.nseindia.com/corporate/xbrl/IT_1074821_273637_02072020094311_WEB.xml"
+"CHEMBOND","Chembond Chemicals Ltd","7(2)","Padma V Shah","Promoter Group","Equity Shares","1599409","11.89",,"4100","600650","Buy","Equity Shares","1603509","11.92","30-Jun-2020","30-Jun-2020","02-Jul-2020","Market Purchase","-","-","0","0","0","0","BSE","-","02-Jul-2020 21:43","https://archives.nseindia.com/corporate/xbrl/IT_1074821_273637_02072020094311_WEB.xml"
+"CHEMBOND","Chembond Chemicals Ltd","7(2)","Raunaq S Shah","Promoter Group","Equity Shares","9107","0.07",,"3500","491750","Buy","Equity Shares","12607","0.09","19-Jun-2020","19-Jun-2020","19-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","22-Jun-2020 18:15","https://archives.nseindia.com/corporate/xbrl/IT_1073963_267459_22062020061518_WEB.xml"
+"CHEMBOND","Chembond Chemicals Ltd","7(2)","Sameer V Shah","Promoters","Equity Shares","1600462","11.9",,"4000","565120","Buy","Equity Shares","1604462","11.93","19-Jun-2020","19-Jun-2020","19-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","22-Jun-2020 18:15","https://archives.nseindia.com/corporate/xbrl/IT_1073963_267459_22062020061518_WEB.xml"
+"CHEMBOND","Chembond Chemicals Ltd","7(2)","Kshitija N Shah","Promoter Group","Equity Shares","21706","0.16",,"200","27750","Buy","Equity Shares","21906","0.16","19-Jun-2020","19-Jun-2020","19-Jun-2020","Market Purchase","-","-","0","0","0","0","BSE","-","22-Jun-2020 18:15","https://archives.nseindia.com/corporate/xbrl/IT_1073963_267459_22062020061518_WEB.xml"
+"CHEMBOND","Chembond Chemicals Ltd","7(2)","Finor Piplaj Chemicals Limited","Promoter Group","Equity Shares","269488","2",,"4000","545371","Buy","Equity Shares","273488","2.03","17-Jun-2020","17-Jun-2020","19-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","22-Jun-2020 18:15","https://archives.nseindia.com/corporate/xbrl/IT_1073963_267459_22062020061518_WEB.xml"
+"CHEMBOND","Chembond Chemicals Ltd","7(2)","Finor Piplaj Chemicals Limited","Promoter Group","Equity Shares","268696","2",,"792","108298","Buy","Equity Shares","269488","2","17-Jun-2020","17-Jun-2020","19-Jun-2020","Market Purchase","-","-","0","0","0","0","BSE","-","22-Jun-2020 18:15","https://archives.nseindia.com/corporate/xbrl/IT_1073963_267459_22062020061518_WEB.xml"
+"CHEMBOND","Chembond Chemicals Ltd","7(2)","Kshitija N Shah","Promoter Group","Equity Shares","21906","0.16",,"2800","389018","Buy","Equity Shares","24706","0.18","19-Jun-2020","19-Jun-2020","19-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","22-Jun-2020 18:15","https://archives.nseindia.com/corporate/xbrl/IT_1073963_267459_22062020061518_WEB.xml"
+"CHEMBOND","Chembond Chemicals Ltd","7(2)","Sameer V Shah","Promoters","Equity Shares","1599462","11.89",,"1000","137790","Buy","Equity Shares","1600462","11.9","12-Jun-2020","12-Jun-2020","15-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","16-Jun-2020 21:35","https://archives.nseindia.com/corporate/xbrl/IT_1073640_265865_16062020093532_WEB.xml"
+"CHEMBOND","Chembond Chemicals Ltd","7(2)","Raunaq S Shah","Promoter Group","Equity Shares","9086","0.07",,"21","2909","Buy","Equity Shares","9107","0.07","12-Jun-2020","12-Jun-2020","15-Jun-2020","Market Purchase","-","-","0","0","0","0","BSE","-","16-Jun-2020 21:35","https://archives.nseindia.com/corporate/xbrl/IT_1073640_265865_16062020093532_WEB.xml"
+"CHEMBOND","Chembond Chemicals Ltd","7(2)","NIRMAL V SHAH","Promoters","Equity Shares","1702291","12.66",,"1500","208486","Buy","Equity Shares","1703791","12.67","12-Jun-2020","12-Jun-2020","15-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","16-Jun-2020 21:35","https://archives.nseindia.com/corporate/xbrl/IT_1073640_265865_16062020093532_WEB.xml"
+"CHEMBOND","Chembond Chemicals Ltd","7(2)","Kshitija N Shah","Promoter Group","Equity Shares","21650","0.16",,"56","7784","Buy","Equity Shares","21706","0.16","12-Jun-2020","12-Jun-2020","15-Jun-2020","Market Purchase","-","-","0","0","0","0","BSE","-","16-Jun-2020 21:35","https://archives.nseindia.com/corporate/xbrl/IT_1073640_265865_16062020093532_WEB.xml"

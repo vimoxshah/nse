@@ -1,0 +1,35 @@
+﻿"SYMBOL 
+","COMPANY 
+","REGULATION 
+","NAME OF THE ACQUIRER/DISPOSER 
+","CATEGORY OF PERSON 
+","TYPE OF SECURITY (PRIOR) 
+","NO. OF SECURITY (PRIOR) 
+","% SHAREHOLDING (PRIOR) 
+","TYPE OF SECURITY (ACQUIRED/DISPLOSED) 
+","NO. OF SECURITIES (ACQUIRED/DISPLOSED) 
+","VALUE OF SECURITY (ACQUIRED/DISPLOSED) 
+","ACQUISITION/DISPOSAL TRANSACTION TYPE 
+","TYPE OF SECURITY (POST) 
+","NO. OF SECURITY (POST) 
+","% POST 
+","DATE OF ALLOTMENT/ACQUISITION FROM 
+","DATE OF ALLOTMENT/ACQUISITION TO 
+","DATE OF INITMATION TO COMPANY 
+","MODE OF ACQUISITION 
+","DERIVATIVE TYPE SECURITY 
+","DERIVATIVE CONTRACT SPECIFICATION 
+","NOTIONAL VALUE(BUY) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE (BUY) 
+","NOTIONAL VALUE(SELL) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE  (SELL) 
+","EXCHANGE 
+","REMARK 
+","BROADCASTE DATE AND TIME 
+","XBRL 
+"
+"WHEELS","Wheels India Limited","7(2)","India Motor Parts & Accessories Limited","Promoter Group","Equity Shares","Nil","0",,"514000","219786400","Buy","Equity Shares","514000","2.14","29-Jun-2020","29-Jun-2020","30-Jun-2020","Market Purchase","-","-","0","0","0","0","BSE","-","01-Jul-2020 20:01","https://archives.nseindia.com/corporate/xbrl/IT_1074715_273270_01072020080130_WEB.xml"
+"WHEELS","Wheels India Limited","7(2)","Titan Europe Limited","Promoters","Equity Shares","3612091","15.01",,"3612091","1545154836","Sell","Equity Shares","Nil","0","26-Jun-2020","29-Jun-2020","30-Jun-2020","Market Sale","-","-","0","0","0","0","BSE,NSE","-","01-Jul-2020 19:40","https://archives.nseindia.com/corporate/xbrl/IT_1074707_273236_01072020074025_WEB.xml"
+"WHEELS","Wheels India Limited","7(2)","Sundaram Finance Holdings Limited","Promoters","Equity Shares","4469917","18.57",,"1131200","483701120","Buy","Equity Shares","5601117","23.27","29-Jun-2020","29-Jun-2020","30-Jun-2020","Inter-se-Transfer","-","-","0","0","0","0","BSE","-","01-Jul-2020 19:25","https://archives.nseindia.com/corporate/xbrl/IT_1074701_273226_01072020072508_WEB.xml"
+"WHEELS","Wheels India Limited","7(2)","Titan Europe Limited","Promoters","Equity Shares","4812912","20",,"1200821","5134711","Sell","Equity Shares","3612091","15.01","04-Jun-2020","04-Jun-2020","07-Jun-2020","Market Sale","-","-","0","0","0","0","BSE","-","09-Jun-2020 17:52","https://archives.nseindia.com/corporate/xbrl/IT_1073268_264331_09062020055244_WEB.xml"
+"WHEELS","Wheels India Limited","7(2)","Sundaram Finance Holdings Limited","Promoters","Equity Shares","3269096","13.58",,"1200821","513471060","Buy","Equity Shares","4469917","18.57","04-Jun-2020","04-Jun-2020","05-Jun-2020","Inter-se-Transfer","-","-","0","0","0","0","BSE","-","09-Jun-2020 17:31","https://archives.nseindia.com/corporate/xbrl/IT_1073261_264321_09062020053133_WEB.xml"

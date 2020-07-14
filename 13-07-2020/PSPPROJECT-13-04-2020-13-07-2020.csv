@@ -1,0 +1,36 @@
+﻿"SYMBOL 
+","COMPANY 
+","REGULATION 
+","NAME OF THE ACQUIRER/DISPOSER 
+","CATEGORY OF PERSON 
+","TYPE OF SECURITY (PRIOR) 
+","NO. OF SECURITY (PRIOR) 
+","% SHAREHOLDING (PRIOR) 
+","TYPE OF SECURITY (ACQUIRED/DISPLOSED) 
+","NO. OF SECURITIES (ACQUIRED/DISPLOSED) 
+","VALUE OF SECURITY (ACQUIRED/DISPLOSED) 
+","ACQUISITION/DISPOSAL TRANSACTION TYPE 
+","TYPE OF SECURITY (POST) 
+","NO. OF SECURITY (POST) 
+","% POST 
+","DATE OF ALLOTMENT/ACQUISITION FROM 
+","DATE OF ALLOTMENT/ACQUISITION TO 
+","DATE OF INITMATION TO COMPANY 
+","MODE OF ACQUISITION 
+","DERIVATIVE TYPE SECURITY 
+","DERIVATIVE CONTRACT SPECIFICATION 
+","NOTIONAL VALUE(BUY) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE (BUY) 
+","NOTIONAL VALUE(SELL) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE  (SELL) 
+","EXCHANGE 
+","REMARK 
+","BROADCASTE DATE AND TIME 
+","XBRL 
+"
+"PSPPROJECT","PSP Projects Limited","7(2)","PRAHALADBHAI SHIVRAMBHAI PATEL","Promoters","Equity Shares","18417808","51.16",,"35000","13887438","Buy","Equity Shares","18452808","51.26","26-Jun-2020","29-Jun-2020","30-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","01-Jul-2020 18:05","https://archives.nseindia.com/corporate/xbrl/IT_1074682_273151_01072020060554_WEB.xml"
+"PSPPROJECT","PSP Projects Limited","7(2)","PRAHALADBHAI SHIVRAMBHAI PATEL","Promoters","Equity Shares","18452808","51.26",,"30000","11790533","Buy","Equity Shares","18482808","51.34","30-Jun-2020","30-Jun-2020","01-Jul-2020","Market Purchase","-","-","0","0","0","0","NSE","-","01-Jul-2020 18:05","https://archives.nseindia.com/corporate/xbrl/IT_1074682_273151_01072020060554_WEB.xml"
+"PSPPROJECT","PSP Projects Limited","7(2)","Ms. Kalgi Patel","Immediate relative","Equity Shares","6760","0",,"6730","2405906","Sell","Equity Shares","30","0","20-Mar-2020","20-Mar-2020","01-Jun-2020","Market Sale","-","-","0","0","0","0","NSE","-","03-Jun-2020 15:29","https://archives.nseindia.com/corporate/xbrl/IT_1072953_263198_03062020032939_WEB.xml"
+"PSPPROJECT","PSP Projects Limited","7(2)","Mrs. Kamaxi Maulikkumar Patel","Immediate relative","Equity Shares","5400","0",,"5400","1250700","Sell","Equity Shares","Nil","0","24-Mar-2020","24-Mar-2020","01-Jun-2020","Market Sale","-","-","0","0","0","0","NSE","-","03-Jun-2020 15:29","https://archives.nseindia.com/corporate/xbrl/IT_1072953_263198_03062020032939_WEB.xml"
+"PSPPROJECT","PSP Projects Limited","7(2)","Mr. Maulikbhai Dahyabhai Patel","Employees/Designated Employees","Equity Shares","5030","0",,"5030","1294383","Sell","Equity Shares","Nil","0","24-Mar-2020","24-Mar-2020","01-Jun-2020","Market Sale","-","-","0","0","0","0","NSE","-","03-Jun-2020 15:29","https://archives.nseindia.com/corporate/xbrl/IT_1072953_263198_03062020032939_WEB.xml"
+"PSPPROJECT","PSP Projects Limited","7(2)","Mr.  Shivam Maulikbhai Patel","Immediate relative","Equity Shares","5000","0",,"5000","2250000","Sell","Equity Shares","Nil","0","11-Mar-2020","11-Mar-2020","01-Jun-2020","Market Sale","-","-","0","0","0","0","NSE","-","03-Jun-2020 15:29","https://archives.nseindia.com/corporate/xbrl/IT_1072953_263198_03062020032939_WEB.xml"

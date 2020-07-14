@@ -1,0 +1,33 @@
+﻿"SYMBOL 
+","COMPANY 
+","REGULATION 
+","NAME OF THE ACQUIRER/DISPOSER 
+","CATEGORY OF PERSON 
+","TYPE OF SECURITY (PRIOR) 
+","NO. OF SECURITY (PRIOR) 
+","% SHAREHOLDING (PRIOR) 
+","TYPE OF SECURITY (ACQUIRED/DISPLOSED) 
+","NO. OF SECURITIES (ACQUIRED/DISPLOSED) 
+","VALUE OF SECURITY (ACQUIRED/DISPLOSED) 
+","ACQUISITION/DISPOSAL TRANSACTION TYPE 
+","TYPE OF SECURITY (POST) 
+","NO. OF SECURITY (POST) 
+","% POST 
+","DATE OF ALLOTMENT/ACQUISITION FROM 
+","DATE OF ALLOTMENT/ACQUISITION TO 
+","DATE OF INITMATION TO COMPANY 
+","MODE OF ACQUISITION 
+","DERIVATIVE TYPE SECURITY 
+","DERIVATIVE CONTRACT SPECIFICATION 
+","NOTIONAL VALUE(BUY) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE (BUY) 
+","NOTIONAL VALUE(SELL) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE  (SELL) 
+","EXCHANGE 
+","REMARK 
+","BROADCASTE DATE AND TIME 
+","XBRL 
+"
+"TVTODAY","TV Today Network Limited","7(2)","RAHUL KUMAR SHAW","Employees/Designated Employees","Equity Shares","23353","0.04",,"10000","1999954","Buy","Equity Shares","33353","0.06","11-Jun-2020","11-Jun-2020","11-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","12-Jun-2020 11:13","https://archives.nseindia.com/corporate/xbrl/IT_1073439_264959_12062020111308_WEB.xml"
+"TVTODAY","TV Today Network Limited","7(2)","AROON PURIE","Promoters","Equity Shares","737782","1.24",,"184000","32005156","Buy","Equity Shares","921782","1.54","20-May-2020","20-May-2020","21-May-2020","Market Purchase","-","-","0","0","0","0","NSE","-","21-May-2020 17:15","https://archives.nseindia.com/corporate/xbrl/IT_1072571_260249_21052020051510_WEB.xml"
+"TVTODAY","TV Today Network Limited","7(2)","AROON PURIE","Promoter Group","Equity Shares","622555","1.04",,"115227","19910434","Buy","Equity Shares","737782","1.24","19-May-2020","19-May-2020","20-May-2020","Market Purchase","-","-","0","0","0","0","NSE","-","20-May-2020 18:01","https://archives.nseindia.com/corporate/xbrl/IT_1072529_259916_20052020060113_WEB.xml"

@@ -1,0 +1,33 @@
+﻿"SYMBOL 
+","COMPANY 
+","REGULATION 
+","NAME OF THE ACQUIRER/DISPOSER 
+","CATEGORY OF PERSON 
+","TYPE OF SECURITY (PRIOR) 
+","NO. OF SECURITY (PRIOR) 
+","% SHAREHOLDING (PRIOR) 
+","TYPE OF SECURITY (ACQUIRED/DISPLOSED) 
+","NO. OF SECURITIES (ACQUIRED/DISPLOSED) 
+","VALUE OF SECURITY (ACQUIRED/DISPLOSED) 
+","ACQUISITION/DISPOSAL TRANSACTION TYPE 
+","TYPE OF SECURITY (POST) 
+","NO. OF SECURITY (POST) 
+","% POST 
+","DATE OF ALLOTMENT/ACQUISITION FROM 
+","DATE OF ALLOTMENT/ACQUISITION TO 
+","DATE OF INITMATION TO COMPANY 
+","MODE OF ACQUISITION 
+","DERIVATIVE TYPE SECURITY 
+","DERIVATIVE CONTRACT SPECIFICATION 
+","NOTIONAL VALUE(BUY) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE (BUY) 
+","NOTIONAL VALUE(SELL) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE  (SELL) 
+","EXCHANGE 
+","REMARK 
+","BROADCASTE DATE AND TIME 
+","XBRL 
+"
+"THYROCARE","Thyrocare Technologies Limited","7(2)","A. Velumani HUF","Promoter Group","Equity Shares","1427910","2.7",,"2697","1362336","Buy","Equity Shares","1430607","2.71","25-Jun-2020","25-Jun-2020","27-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","30-Jun-2020 13:37","https://archives.nseindia.com/corporate/xbrl/IT_1074548_271599_30062020013717_WEB.xml"
+"THYROCARE","Thyrocare Technologies Limited","7(2)","A. Velumani HUF","Promoter Group","Equity Shares","1422773","2.69",,"5137","2594629","Buy","Equity Shares","1427910","2.7","23-Jun-2020","24-Jun-2020","25-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","25-Jun-2020 16:58","https://archives.nseindia.com/corporate/xbrl/IT_1074238_268752_25062020045843_WEB.xml"
+"THYROCARE","Thyrocare Technologies Limited","7(2)","A. Velumani HUF","Promoter Group","Equity Shares","1419549","2.69",,"3224","1628120","Buy","Equity Shares","1422773","2.69","12-Jun-2020","12-Jun-2020","13-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","13-Jun-2020 18:35","https://archives.nseindia.com/corporate/xbrl/IT_1073504_265313_13062020063536_WEB.xml"

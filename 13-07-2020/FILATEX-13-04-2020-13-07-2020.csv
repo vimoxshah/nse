@@ -1,0 +1,36 @@
+﻿"SYMBOL 
+","COMPANY 
+","REGULATION 
+","NAME OF THE ACQUIRER/DISPOSER 
+","CATEGORY OF PERSON 
+","TYPE OF SECURITY (PRIOR) 
+","NO. OF SECURITY (PRIOR) 
+","% SHAREHOLDING (PRIOR) 
+","TYPE OF SECURITY (ACQUIRED/DISPLOSED) 
+","NO. OF SECURITIES (ACQUIRED/DISPLOSED) 
+","VALUE OF SECURITY (ACQUIRED/DISPLOSED) 
+","ACQUISITION/DISPOSAL TRANSACTION TYPE 
+","TYPE OF SECURITY (POST) 
+","NO. OF SECURITY (POST) 
+","% POST 
+","DATE OF ALLOTMENT/ACQUISITION FROM 
+","DATE OF ALLOTMENT/ACQUISITION TO 
+","DATE OF INITMATION TO COMPANY 
+","MODE OF ACQUISITION 
+","DERIVATIVE TYPE SECURITY 
+","DERIVATIVE CONTRACT SPECIFICATION 
+","NOTIONAL VALUE(BUY) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE (BUY) 
+","NOTIONAL VALUE(SELL) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE  (SELL) 
+","EXCHANGE 
+","REMARK 
+","BROADCASTE DATE AND TIME 
+","XBRL 
+"
+"FILATEX","Filatex India Limited","7(2)","Nouvelle Securities Pvt. Ltd.","Promoter Group","Equity Shares","10938450","4.95",,"30000","772671","Buy","Equity Shares","10968450","4.97","29-Jun-2020","29-Jun-2020","30-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","30-Jun-2020 16:36","https://archives.nseindia.com/corporate/xbrl/IT_1074561_272015_30062020043559_WEB.xml"
+"FILATEX","Filatex India Limited","7(2)","GUNJAN BHAGERIA","Promoter Group","Equity Shares","4590500","2.08",,"112974","3224311","Buy","Equity Shares","4703474","2.13","23-Jun-2020","23-Jun-2020","24-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","25-Jun-2020 17:03","https://archives.nseindia.com/corporate/xbrl/IT_1074240_268756_25062020050308_WEB.xml"
+"FILATEX","Filatex India Limited","7(2)","GUNJAN BHAGERIA","Promoter Group","Equity Shares","4340500","1.97",,"250000","7443886","Buy","Equity Shares","4590500","2.08","22-Jun-2020","22-Jun-2020","23-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","24-Jun-2020 16:03","https://archives.nseindia.com/corporate/xbrl/IT_1074101_268128_24062020040311_WEB.xml"
+"FILATEX","Filatex India Limited","7(2)","VYANU B VYAS","Employees/Designated Employees","Equity Shares","Nil","0",,"160000","4496000","Buy","Equity Shares","160000","0.07","15-Apr-2020","15-Apr-2020","15-Apr-2020","ESOP","-","-","0","0","0","0","NA","-","17-Apr-2020 17:15","https://archives.nseindia.com/corporate/xbrl/IT_1071994_240498_17042020051529_WEB.xml"
+"FILATEX","Filatex India Limited","7(2)","Rajiv Kasturia","Employees/Designated Employees","Equity Shares","205045","0.09",,"40000","1124000","Buy","Equity Shares","245045","0.11","15-Apr-2020","15-Apr-2020","15-Apr-2020","ESOP","-","-","0","0","0","0","NA","-","17-Apr-2020 17:15","https://archives.nseindia.com/corporate/xbrl/IT_1071994_240498_17042020051529_WEB.xml"
+"FILATEX","Filatex India Limited","7(2)","Ashok Chauhan","Director","Equity Shares","70000","0.03",,"130000","3653000","Buy","Equity Shares","200000","0.09","15-Apr-2020","15-Apr-2020","15-Apr-2020","ESOP","-","-","0","0","0","0","NA","-","17-Apr-2020 17:15","https://archives.nseindia.com/corporate/xbrl/IT_1071994_240498_17042020051529_WEB.xml"

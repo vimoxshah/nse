@@ -1,0 +1,37 @@
+﻿"SYMBOL 
+","COMPANY 
+","REGULATION 
+","NAME OF THE ACQUIRER/DISPOSER 
+","CATEGORY OF PERSON 
+","TYPE OF SECURITY (PRIOR) 
+","NO. OF SECURITY (PRIOR) 
+","% SHAREHOLDING (PRIOR) 
+","TYPE OF SECURITY (ACQUIRED/DISPLOSED) 
+","NO. OF SECURITIES (ACQUIRED/DISPLOSED) 
+","VALUE OF SECURITY (ACQUIRED/DISPLOSED) 
+","ACQUISITION/DISPOSAL TRANSACTION TYPE 
+","TYPE OF SECURITY (POST) 
+","NO. OF SECURITY (POST) 
+","% POST 
+","DATE OF ALLOTMENT/ACQUISITION FROM 
+","DATE OF ALLOTMENT/ACQUISITION TO 
+","DATE OF INITMATION TO COMPANY 
+","MODE OF ACQUISITION 
+","DERIVATIVE TYPE SECURITY 
+","DERIVATIVE CONTRACT SPECIFICATION 
+","NOTIONAL VALUE(BUY) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE (BUY) 
+","NOTIONAL VALUE(SELL) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE  (SELL) 
+","EXCHANGE 
+","REMARK 
+","BROADCASTE DATE AND TIME 
+","XBRL 
+"
+"SBICARD","Sbi Cards And Payment Services Limited","7(2)","SBI Life Insurance Company Limited","Promoter Group","Equity Shares","146645","0.02",,"50000","30641495","Buy","Equity Shares","196645","0.02","19-Jun-2020","19-Jun-2020","19-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","19-Jun-2020 21:44","https://archives.nseindia.com/corporate/xbrl/IT_1073870_266952_19062020094420_WEB.xml"
+"SBICARD","Sbi Cards And Payment Services Limited","7(2)","SBI Life Insurance Company Limited","Promoter Group","Equity Shares","171645","0.02",,"25000","15208110","Sell","Equity Shares","146645","0.02","04-Jun-2020","04-Jun-2020","05-Jun-2020","Market Sale","-","-","0","0","0","0","NSE","-","05-Jun-2020 16:23","https://archives.nseindia.com/corporate/xbrl/IT_1073089_263661_05062020042349_WEB.xml"
+"SBICARD","Sbi Cards And Payment Services Limited","7(2)","SBI Life Insurance Company Limited","Promoter Group","Equity Shares","187196","0.02",,"15551","8396950","Sell","Equity Shares","171645","0.02","14-May-2020","14-May-2020","15-May-2020","Market Sale","-","-","0","0","0","0","NSE","-","16-May-2020 10:31","https://archives.nseindia.com/corporate/xbrl/IT_1072445_258947_16052020103103_WEB.xml"
+"SBICARD","Sbi Cards And Payment Services Limited","7(2)","SBI Life Insurance Company Limited","Promoter Group","Equity Shares","191196","0.02",,"4000","2289194","Sell","Equity Shares","187196","0.02","08-May-2020","08-May-2020","11-May-2020","Market Sale","-","-","0","0","0","0","NSE","-","11-May-2020 19:00","https://archives.nseindia.com/corporate/xbrl/IT_1072353_252293_11052020070011_WEB.xml"
+"SBICARD","Sbi Cards And Payment Services Limited","7(2)","SBI Life Insurance Company Limited","Promoter Group","Equity Shares","298957","0.03",,"107761","61831959","Sell","Equity Shares","191196","0.02","07-May-2020","07-May-2020","09-May-2020","Market Sale","-","-","0","0","0","0","NSE","-","11-May-2020 11:17","https://archives.nseindia.com/corporate/xbrl/IT_1072337_251614_11052020111719_WEB.xml"
+"SBICARD","Sbi Cards And Payment Services Limited","7(2)","SBI Life Insurance Company Limited","Promoter Group","Equity Shares","326727","0.03",,"27770","15659395","Sell","Equity Shares","298957","0.03","06-May-2020","06-May-2020","06-May-2020","Market Sale","-","-","0","0","0","0","NSE","-","06-May-2020 19:51","https://archives.nseindia.com/corporate/xbrl/IT_1072285_249071_06052020075155_WEB.xml"
+"SBICARD","Sbi Cards And Payment Services Limited","7(2)","SBI Life Insurance Company Limited","Promoter Group","Equity Shares","342277","0.04",,"15550","8612711","Sell","Equity Shares","326727","0.03","09-Apr-2020","28-Apr-2020","28-Apr-2020","Market Sale","-","-","0","0","0","0","NSE","-","29-Apr-2020 11:52","https://archives.nseindia.com/corporate/xbrl/IT_1072162_245257_29042020115228_WEB.xml"

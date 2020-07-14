@@ -1,0 +1,33 @@
+﻿"SYMBOL 
+","COMPANY 
+","REGULATION 
+","NAME OF THE ACQUIRER/DISPOSER 
+","CATEGORY OF PERSON 
+","TYPE OF SECURITY (PRIOR) 
+","NO. OF SECURITY (PRIOR) 
+","% SHAREHOLDING (PRIOR) 
+","TYPE OF SECURITY (ACQUIRED/DISPLOSED) 
+","NO. OF SECURITIES (ACQUIRED/DISPLOSED) 
+","VALUE OF SECURITY (ACQUIRED/DISPLOSED) 
+","ACQUISITION/DISPOSAL TRANSACTION TYPE 
+","TYPE OF SECURITY (POST) 
+","NO. OF SECURITY (POST) 
+","% POST 
+","DATE OF ALLOTMENT/ACQUISITION FROM 
+","DATE OF ALLOTMENT/ACQUISITION TO 
+","DATE OF INITMATION TO COMPANY 
+","MODE OF ACQUISITION 
+","DERIVATIVE TYPE SECURITY 
+","DERIVATIVE CONTRACT SPECIFICATION 
+","NOTIONAL VALUE(BUY) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE (BUY) 
+","NOTIONAL VALUE(SELL) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE  (SELL) 
+","EXCHANGE 
+","REMARK 
+","BROADCASTE DATE AND TIME 
+","XBRL 
+"
+"CONFIPET","Confidence Petroleum India Limited","7(2)","CONFIDENCE LPG BOTTLING PRIVATE LIMITED","Promoter Group","Equity Shares","4035151","1.47",,"82000","1590800","Buy","Equity Shares","4117151","1.5","30-Jun-2020","30-Jun-2020","01-Jul-2020","Market Purchase","-","-","0","0","0","0","NSE","-","02-Jul-2020 17:12","https://archives.nseindia.com/corporate/xbrl/IT_1074785_273528_02072020051207_WEB.xml"
+"CONFIPET","Confidence Petroleum India Limited","7(2)","Essenn LPG Bottling Private Limited","Promoter Group","Equity Shares","3324468","1.21",,"66000","1275780","Buy","Equity Shares","3390468","1.23","29-Jun-2020","29-Jun-2020","30-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","30-Jun-2020 13:03","https://archives.nseindia.com/corporate/xbrl/IT_1074540_271516_30062020010356_WEB.xml"
+"CONFIPET","Confidence Petroleum India Limited","7(2)","Essenn LPG Bottling Private Limited","Promoter Group","Equity Shares","3165668","1.15",,"158800","3176529","Buy","Equity Shares","3324468","1.21","23-Jun-2020","25-Jun-2020","26-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","26-Jun-2020 19:03","https://archives.nseindia.com/corporate/xbrl/IT_1074355_269678_26062020070352_WEB.xml"

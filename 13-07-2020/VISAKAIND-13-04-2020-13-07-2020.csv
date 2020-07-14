@@ -1,0 +1,37 @@
+﻿"SYMBOL 
+","COMPANY 
+","REGULATION 
+","NAME OF THE ACQUIRER/DISPOSER 
+","CATEGORY OF PERSON 
+","TYPE OF SECURITY (PRIOR) 
+","NO. OF SECURITY (PRIOR) 
+","% SHAREHOLDING (PRIOR) 
+","TYPE OF SECURITY (ACQUIRED/DISPLOSED) 
+","NO. OF SECURITIES (ACQUIRED/DISPLOSED) 
+","VALUE OF SECURITY (ACQUIRED/DISPLOSED) 
+","ACQUISITION/DISPOSAL TRANSACTION TYPE 
+","TYPE OF SECURITY (POST) 
+","NO. OF SECURITY (POST) 
+","% POST 
+","DATE OF ALLOTMENT/ACQUISITION FROM 
+","DATE OF ALLOTMENT/ACQUISITION TO 
+","DATE OF INITMATION TO COMPANY 
+","MODE OF ACQUISITION 
+","DERIVATIVE TYPE SECURITY 
+","DERIVATIVE CONTRACT SPECIFICATION 
+","NOTIONAL VALUE(BUY) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE (BUY) 
+","NOTIONAL VALUE(SELL) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE  (SELL) 
+","EXCHANGE 
+","REMARK 
+","BROADCASTE DATE AND TIME 
+","XBRL 
+"
+"VISAKAIND","Visaka Industries Limited","7(2)","Dr. G Vivekanand","Promoters","Equity Shares","6073730","38.25",,"38250","8977039","Buy","Equity Shares","6111980","38.49","15-Jun-2020","17-Jun-2020","17-Jun-2020","Market Purchase","-","-","0","0","0","0","BSE,NSE","-","18-Jun-2020 15:27","https://archives.nseindia.com/corporate/xbrl/IT_1073747_266323_18062020032737_WEB.xml"
+"VISAKAIND","Visaka Industries Limited","7(2)","Dr. G Vivekanand","Promoters","Equity Shares","6028130","37.96",,"45600","9848388","Buy","Equity Shares","6073730","38.25","11-Jun-2020","12-Jun-2020","13-Jun-2020","Market Purchase","-","-","0","0","0","0","BSE,NSE","-","15-Jun-2020 09:40","https://archives.nseindia.com/corporate/xbrl/IT_1073516_265373_15062020094039_WEB.xml"
+"VISAKAIND","Visaka Industries Limited","7(2)","Dr. G Vivekanand","Promoters","Equity Shares","5996930","37.76",,"2936","596069","Buy","Equity Shares","5999866","37.78","03-Jun-2020","04-Jun-2020","04-Jun-2020","Market Purchase","-","-","0","0","0","0","BSE","-","06-Jun-2020 17:32","https://archives.nseindia.com/corporate/xbrl/IT_1073145_263988_06062020053220_WEB.xml"
+"VISAKAIND","Visaka Industries Limited","7(2)","Dr. G Vivekanand","Promoters","Equity Shares","5999866","37.78",,"28264","5759829","Buy","Equity Shares","6028130","37.96","03-Jun-2020","04-Jun-2020","04-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","06-Jun-2020 17:32","https://archives.nseindia.com/corporate/xbrl/IT_1073145_263988_06062020053220_WEB.xml"
+"VISAKAIND","Visaka Industries Limited","7(2)","Dr. G Vivekanand","Promoters","Equity Shares","5973330","37.61",,"8300","1390686","Buy","Equity Shares","5981630","37.67","29-May-2020","29-May-2020","01-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","03-Jun-2020 16:31","https://archives.nseindia.com/corporate/xbrl/IT_1072964_263218_03062020043117_WEB.xml"
+"VISAKAIND","Visaka Industries Limited","7(2)","Dr. G Vivekanand","Promoters","Equity Shares","5981630","37.67",,"1847","351383","Buy","Equity Shares","5983477","37.68","02-Jun-2020","02-Jun-2020","03-Jun-2020","Market Purchase","-","-","0","0","0","0","BSE","-","03-Jun-2020 16:31","https://archives.nseindia.com/corporate/xbrl/IT_1072964_263218_03062020043117_WEB.xml"
+"VISAKAIND","Visaka Industries Limited","7(2)","Dr. G Vivekanand","Promoters","Equity Shares","5983477","37.68",,"13453","2541848","Buy","Equity Shares","5996930","37.76","02-Jun-2020","02-Jun-2020","03-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","03-Jun-2020 16:31","https://archives.nseindia.com/corporate/xbrl/IT_1072964_263218_03062020043117_WEB.xml"

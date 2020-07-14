@@ -1,0 +1,36 @@
+﻿"SYMBOL 
+","COMPANY 
+","REGULATION 
+","NAME OF THE ACQUIRER/DISPOSER 
+","CATEGORY OF PERSON 
+","TYPE OF SECURITY (PRIOR) 
+","NO. OF SECURITY (PRIOR) 
+","% SHAREHOLDING (PRIOR) 
+","TYPE OF SECURITY (ACQUIRED/DISPLOSED) 
+","NO. OF SECURITIES (ACQUIRED/DISPLOSED) 
+","VALUE OF SECURITY (ACQUIRED/DISPLOSED) 
+","ACQUISITION/DISPOSAL TRANSACTION TYPE 
+","TYPE OF SECURITY (POST) 
+","NO. OF SECURITY (POST) 
+","% POST 
+","DATE OF ALLOTMENT/ACQUISITION FROM 
+","DATE OF ALLOTMENT/ACQUISITION TO 
+","DATE OF INITMATION TO COMPANY 
+","MODE OF ACQUISITION 
+","DERIVATIVE TYPE SECURITY 
+","DERIVATIVE CONTRACT SPECIFICATION 
+","NOTIONAL VALUE(BUY) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE (BUY) 
+","NOTIONAL VALUE(SELL) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE  (SELL) 
+","EXCHANGE 
+","REMARK 
+","BROADCASTE DATE AND TIME 
+","XBRL 
+"
+"ASHIANA","Ashiana Housing Limited","7(2)","ANKUR GUPTA","Promoters","Equity Shares","20244825","19.78",,"59500","3070200","Buy","Equity Shares","20304325","19.84","23-Jun-2020","23-Jun-2020","23-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","25-Jun-2020 22:55","https://archives.nseindia.com/corporate/xbrl/IT_1074291_269009_25062020105532_WEB.xml"
+"ASHIANA","Ashiana Housing Limited","7(2)","VISHAL GUPTA","Promoters","Equity Shares","14034340","13.71",,"65000","3357250","Buy","Equity Shares","14099340","13.78","23-Jun-2020","23-Jun-2020","23-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","25-Jun-2020 22:55","https://archives.nseindia.com/corporate/xbrl/IT_1074291_269009_25062020105532_WEB.xml"
+"ASHIANA","Ashiana Housing Limited","7(2)","VARUN GUPTA","Promoters","Equity Shares","20244825","19.78",,"61456","3172973","Buy","Equity Shares","20306281","19.84","23-Jun-2020","23-Jun-2020","23-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","25-Jun-2020 22:55","https://archives.nseindia.com/corporate/xbrl/IT_1074291_269009_25062020105532_WEB.xml"
+"ASHIANA","Ashiana Housing Limited","7(2)","VARUN GUPTA","Promoters","Equity Shares","20244825","19.78",,"61456","1949999","Buy","Equity Shares","20306281","19.84","23-Jun-2020","23-Jun-2020","23-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","25-Jun-2020 19:10","https://archives.nseindia.com/corporate/xbrl/IT_1074265_268887_25062020071055_WEB.xml"
+"ASHIANA","Ashiana Housing Limited","7(2)","ANKUR GUPTA","Promoters","Equity Shares","20244825","19.78",,"59500","1826650","Buy","Equity Shares","20304325","19.84","23-Jun-2020","23-Jun-2020","23-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","25-Jun-2020 19:10","https://archives.nseindia.com/corporate/xbrl/IT_1074265_268887_25062020071055_WEB.xml"
+"ASHIANA","Ashiana Housing Limited","7(2)","VISHAL GUPTA","Promoters","Equity Shares","14034340","13.71",,"65000","2182050","Buy","Equity Shares","14099340","13.77","23-Jun-2020","23-Jun-2020","23-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","25-Jun-2020 19:10","https://archives.nseindia.com/corporate/xbrl/IT_1074265_268887_25062020071055_WEB.xml"

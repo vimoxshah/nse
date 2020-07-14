@@ -1,0 +1,34 @@
+﻿"SYMBOL 
+","COMPANY 
+","REGULATION 
+","NAME OF THE ACQUIRER/DISPOSER 
+","CATEGORY OF PERSON 
+","TYPE OF SECURITY (PRIOR) 
+","NO. OF SECURITY (PRIOR) 
+","% SHAREHOLDING (PRIOR) 
+","TYPE OF SECURITY (ACQUIRED/DISPLOSED) 
+","NO. OF SECURITIES (ACQUIRED/DISPLOSED) 
+","VALUE OF SECURITY (ACQUIRED/DISPLOSED) 
+","ACQUISITION/DISPOSAL TRANSACTION TYPE 
+","TYPE OF SECURITY (POST) 
+","NO. OF SECURITY (POST) 
+","% POST 
+","DATE OF ALLOTMENT/ACQUISITION FROM 
+","DATE OF ALLOTMENT/ACQUISITION TO 
+","DATE OF INITMATION TO COMPANY 
+","MODE OF ACQUISITION 
+","DERIVATIVE TYPE SECURITY 
+","DERIVATIVE CONTRACT SPECIFICATION 
+","NOTIONAL VALUE(BUY) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE (BUY) 
+","NOTIONAL VALUE(SELL) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE  (SELL) 
+","EXCHANGE 
+","REMARK 
+","BROADCASTE DATE AND TIME 
+","XBRL 
+"
+"CHOLAFIN","Cholamandalam Investment and Finance Company Limited","7(2)","A VENKATACHALAM HUF","Promoters","Equity Shares","Nil","0",,"5246","797990","Buy","Equity Shares","5246","0","08-Jun-2020","08-Jun-2020","15-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","17-Jun-2020 17:17","https://archives.nseindia.com/corporate/xbrl/IT_1073681_266038_17062020051727_WEB.xml"
+"CHOLAFIN","Cholamandalam Investment and Finance Company Limited","7(2)","A VENKATACHALAM HUF","Promoters","Equity Shares","5246","0",,"1754","253847","Buy","Equity Shares","7000","0","12-Jun-2020","12-Jun-2020","15-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","17-Jun-2020 17:17","https://archives.nseindia.com/corporate/xbrl/IT_1073681_266038_17062020051727_WEB.xml"
+"CHOLAFIN","Cholamandalam Investment and Finance Company Limited","7(2)","SUBHAM  KUMAR KUNDU","Immediate relative","Equity Shares","Nil","0",,"1000","158726","Buy","Equity Shares","1000","0","15-Jun-2020","15-Jun-2020","15-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","17-Jun-2020 17:17","https://archives.nseindia.com/corporate/xbrl/IT_1073681_266038_17062020051727_WEB.xml"
+"CHOLAFIN","Cholamandalam Investment and Finance Company Limited","7(2)","RAVINDRA KUMAR KUNDU","Director","Equity Shares","80235","0.01",,"10000","1570958","Buy","Equity Shares","90235","0.01","15-Jun-2020","15-Jun-2020","15-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","17-Jun-2020 17:17","https://archives.nseindia.com/corporate/xbrl/IT_1073681_266038_17062020051727_WEB.xml"

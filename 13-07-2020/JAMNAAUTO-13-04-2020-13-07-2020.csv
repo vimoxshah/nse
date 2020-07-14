@@ -1,0 +1,38 @@
+﻿"SYMBOL 
+","COMPANY 
+","REGULATION 
+","NAME OF THE ACQUIRER/DISPOSER 
+","CATEGORY OF PERSON 
+","TYPE OF SECURITY (PRIOR) 
+","NO. OF SECURITY (PRIOR) 
+","% SHAREHOLDING (PRIOR) 
+","TYPE OF SECURITY (ACQUIRED/DISPLOSED) 
+","NO. OF SECURITIES (ACQUIRED/DISPLOSED) 
+","VALUE OF SECURITY (ACQUIRED/DISPLOSED) 
+","ACQUISITION/DISPOSAL TRANSACTION TYPE 
+","TYPE OF SECURITY (POST) 
+","NO. OF SECURITY (POST) 
+","% POST 
+","DATE OF ALLOTMENT/ACQUISITION FROM 
+","DATE OF ALLOTMENT/ACQUISITION TO 
+","DATE OF INITMATION TO COMPANY 
+","MODE OF ACQUISITION 
+","DERIVATIVE TYPE SECURITY 
+","DERIVATIVE CONTRACT SPECIFICATION 
+","NOTIONAL VALUE(BUY) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE (BUY) 
+","NOTIONAL VALUE(SELL) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE  (SELL) 
+","EXCHANGE 
+","REMARK 
+","BROADCASTE DATE AND TIME 
+","XBRL 
+"
+"JAMNAAUTO","Jamna Auto Industries Limited","7(2)","Map Auto Ltd.","Promoters","Equity Shares","133611971","33.5",,"226178","7664274","Buy","Equity Shares","133838149","33.56","30-Jun-2020","30-Jun-2020","01-Jul-2020","Market Purchase","-","-","0","0","0","0","NSE","-","02-Jul-2020 13:57","https://archives.nseindia.com/corporate/xbrl/IT_1074756_273425_02072020015754_WEB.xml"
+"JAMNAAUTO","Jamna Auto Industries Limited","7(2)","Map Auto Ltd.","Promoters","Equity Shares","133111971","33.38",,"500000","16949215","Buy","Equity Shares","133611971","33.5","29-Jun-2020","29-Jun-2020","01-Jul-2020","Market Purchase","-","-","0","0","0","0","NSE","-","02-Jul-2020 13:57","https://archives.nseindia.com/corporate/xbrl/IT_1074756_273425_02072020015754_WEB.xml"
+"JAMNAAUTO","Jamna Auto Industries Limited","7(2)","Map Auto Limited","Promoters","Equity Shares","132632728","33.27",,"479243","15159064","Buy","Equity Shares","133111971","33.38","25-Jun-2020","26-Jun-2020","27-Jun-2020","Market Purchase","-","-","0","0","0","0","NA","-","29-Jun-2020 11:58","https://archives.nseindia.com/corporate/xbrl/IT_1074435_270768_29062020115825_WEB.xml"
+"JAMNAAUTO","Jamna Auto Industries Limited","7(2)","Map Auto Limited","Promoters","Equity Shares","132232728","33.18",,"100000","3071915","Buy","Equity Shares","132332728","33.2","23-Jun-2020","23-Jun-2020","24-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","25-Jun-2020 16:17","https://archives.nseindia.com/corporate/xbrl/IT_1074223_268688_25062020041748_WEB.xml"
+"JAMNAAUTO","Jamna Auto Industries Limited","7(2)","Map Auto Limited","Promoters","Equity Shares","132132728","33.16",,"100000","3103100","Buy","Equity Shares","132232728","33.18","22-Jun-2020","22-Jun-2020","24-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","25-Jun-2020 16:17","https://archives.nseindia.com/corporate/xbrl/IT_1074223_268688_25062020041748_WEB.xml"
+"JAMNAAUTO","Jamna Auto Industries Limited","7(2)","Map Auto Limited","Promoters","Equity Shares","132332728","33.2",,"300000","9719526","Buy","Equity Shares","132632728","33.27","24-Jun-2020","24-Jun-2020","25-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","25-Jun-2020 16:17","https://archives.nseindia.com/corporate/xbrl/IT_1074223_268688_25062020041748_WEB.xml"
+"JAMNAAUTO","Jamna Auto Industries Limited","7(2)","Map Auto Limited","Promoters","Equity Shares","132032728","33.14",,"100000","2922891","Buy","Equity Shares","132132728","33.16","16-Jun-2020","16-Jun-2020","18-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","19-Jun-2020 16:52","https://archives.nseindia.com/corporate/xbrl/IT_1073832_266812_19062020045223_WEB.xml"
+"JAMNAAUTO","Jamna Auto Industries Limited","7(2)","Map Auto Limited","Promoters","Equity Shares","132032728","33.14",,"690485","16364495","Pledge","Equity Shares","132032728","33.14","12-May-2020","12-May-2020","14-May-2020","Pledge Creation","-","-","0","0","0","0","NA","-","16-May-2020 17:01","https://archives.nseindia.com/corporate/xbrl/IT_1072455_259082_16052020050151_WEB.xml"

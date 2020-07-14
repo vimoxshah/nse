@@ -1,0 +1,39 @@
+﻿"SYMBOL 
+","COMPANY 
+","REGULATION 
+","NAME OF THE ACQUIRER/DISPOSER 
+","CATEGORY OF PERSON 
+","TYPE OF SECURITY (PRIOR) 
+","NO. OF SECURITY (PRIOR) 
+","% SHAREHOLDING (PRIOR) 
+","TYPE OF SECURITY (ACQUIRED/DISPLOSED) 
+","NO. OF SECURITIES (ACQUIRED/DISPLOSED) 
+","VALUE OF SECURITY (ACQUIRED/DISPLOSED) 
+","ACQUISITION/DISPOSAL TRANSACTION TYPE 
+","TYPE OF SECURITY (POST) 
+","NO. OF SECURITY (POST) 
+","% POST 
+","DATE OF ALLOTMENT/ACQUISITION FROM 
+","DATE OF ALLOTMENT/ACQUISITION TO 
+","DATE OF INITMATION TO COMPANY 
+","MODE OF ACQUISITION 
+","DERIVATIVE TYPE SECURITY 
+","DERIVATIVE CONTRACT SPECIFICATION 
+","NOTIONAL VALUE(BUY) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE (BUY) 
+","NOTIONAL VALUE(SELL) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE  (SELL) 
+","EXCHANGE 
+","REMARK 
+","BROADCASTE DATE AND TIME 
+","XBRL 
+"
+"BRITANNIA","Britannia Industries Limited","7(2)","Varun Berry","Director","Equity Shares","61098","0.03",,"90000","245884500","Buy","Equity Shares","151098","0.06","07-Jul-2020","07-Jul-2020","07-Jul-2020","ESOP","-","-","0","0","0","0","NA","-","09-Jul-2020 21:32","https://archives.nseindia.com/corporate/xbrl/IT_1075006_277663_09072020093253_WEB.xml"
+"BRITANNIA","Britannia Industries Limited","7(2)","Varun Berry","Director","Equity Shares","102415","0.04",,"26317","92732950","Sell","Equity Shares","76098","0.03","29-Jun-2020","29-Jun-2020","29-Jun-2020","Market Sale","-","-","0","0","0","0","NSE","-","01-Jul-2020 20:37","https://archives.nseindia.com/corporate/xbrl/IT_1074723_273288_01072020083753_WEB.xml"
+"BRITANNIA","Britannia Industries Limited","7(2)","Varun Berry","Director","Equity Shares","76098","0.03",,"15000","53899950","Sell","Equity Shares","61098","0.03","30-Jun-2020","30-Jun-2020","30-Jun-2020","Market Sale","-","-","0","0","0","0","NSE","-","01-Jul-2020 20:37","https://archives.nseindia.com/corporate/xbrl/IT_1074723_273288_01072020083753_WEB.xml"
+"BRITANNIA","Britannia Industries Limited","7(2)","NESS N WADIA","Promoters","Equity Shares","14402","0.01",,"1800","6245937","Buy","Equity Shares","16202","0.01","24-Jun-2020","24-Jun-2020","25-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","27-Jun-2020 23:05","https://archives.nseindia.com/corporate/xbrl/IT_1074418_270507_27062020110526_WEB.xml"
+"BRITANNIA","Britannia Industries Limited","7(2)","NESS N WADIA","Promoters","Equity Shares","13802","0.01",,"600","2052670","Buy","Equity Shares","14402","0.01","22-Jun-2020","22-Jun-2020","24-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","26-Jun-2020 23:48","https://archives.nseindia.com/corporate/xbrl/IT_1074383_269860_26062020114849_WEB.xml"
+"BRITANNIA","Britannia Industries Limited","7(2)","Varun Berry","Director","Equity Shares","112415","0.04",,"10000","35000000","Sell","Equity Shares","102415","0.04","23-Jun-2020","23-Jun-2020","23-Jun-2020","Market Sale","-","-","0","0","0","0","NSE","-","23-Jun-2020 23:13","https://archives.nseindia.com/corporate/xbrl/IT_1074069_267884_23062020111301_WEB.xml"
+"BRITANNIA","Britannia Industries Limited","7(2)","Varun Berry","Director","Equity Shares","122415","0.05",,"10000","34750000","Sell","Equity Shares","112415","0.04","23-Jun-2020","23-Jun-2020","23-Jun-2020","Market Sale","-","-","0","0","0","0","NSE","-","23-Jun-2020 23:13","https://archives.nseindia.com/corporate/xbrl/IT_1074069_267884_23062020111301_WEB.xml"
+"BRITANNIA","Britannia Industries Limited","7(2)","Varun Berry","Director","Equity Shares","129206","0.05",,"6791","23428950","Sell","Equity Shares","122415","0.05","19-Jun-2020","19-Jun-2020","22-Jun-2020","Market Sale","-","-","0","0","0","0","NSE","-","23-Jun-2020 23:13","https://archives.nseindia.com/corporate/xbrl/IT_1074069_267884_23062020111301_WEB.xml"
+"BRITANNIA","Britannia Industries Limited","7(2)","Varun Berry","Director","Equity Shares","45872","0.02",,"83334","147222011","Buy","Equity Shares","129206","0.05","12-Jun-2020","12-Jun-2020","15-Jun-2020","ESOP","-","-","0","0","0","0","NA","-","16-Jun-2020 00:59","https://archives.nseindia.com/corporate/xbrl/IT_1073575_265600_16062020125900_WEB.xml"

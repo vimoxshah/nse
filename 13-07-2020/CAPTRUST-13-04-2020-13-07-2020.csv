@@ -1,0 +1,34 @@
+﻿"SYMBOL 
+","COMPANY 
+","REGULATION 
+","NAME OF THE ACQUIRER/DISPOSER 
+","CATEGORY OF PERSON 
+","TYPE OF SECURITY (PRIOR) 
+","NO. OF SECURITY (PRIOR) 
+","% SHAREHOLDING (PRIOR) 
+","TYPE OF SECURITY (ACQUIRED/DISPLOSED) 
+","NO. OF SECURITIES (ACQUIRED/DISPLOSED) 
+","VALUE OF SECURITY (ACQUIRED/DISPLOSED) 
+","ACQUISITION/DISPOSAL TRANSACTION TYPE 
+","TYPE OF SECURITY (POST) 
+","NO. OF SECURITY (POST) 
+","% POST 
+","DATE OF ALLOTMENT/ACQUISITION FROM 
+","DATE OF ALLOTMENT/ACQUISITION TO 
+","DATE OF INITMATION TO COMPANY 
+","MODE OF ACQUISITION 
+","DERIVATIVE TYPE SECURITY 
+","DERIVATIVE CONTRACT SPECIFICATION 
+","NOTIONAL VALUE(BUY) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE (BUY) 
+","NOTIONAL VALUE(SELL) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE  (SELL) 
+","EXCHANGE 
+","REMARK 
+","BROADCASTE DATE AND TIME 
+","XBRL 
+"
+"CAPTRUST","Capital Trust Limited","7(2)","Moonlight Equity Pvt Ltd","Promoters","Equity Shares","1468699","8.98",,"18111","1455946","Buy","Equity Shares","1486810","9.09","29-Jun-2020","29-Jun-2020","01-Jul-2020","Market Purchase","-","-","0","0","0","0","BSE","-","01-Jul-2020 11:45","https://archives.nseindia.com/corporate/xbrl/IT_1074638_272651_01072020114536_WEB.xml"
+"CAPTRUST","Capital Trust Limited","7(2)","Moonlight Equity Pvt Ltd","Promoters","Equity Shares","1410772","8.62",,"57927","4868887","Buy","Equity Shares","1468699","8.98","25-Jun-2020","26-Jun-2020","29-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","30-Jun-2020 16:39","https://archives.nseindia.com/corporate/xbrl/IT_1074563_272028_30062020043946_WEB.xml"
+"CAPTRUST","Capital Trust Limited","7(2)","Moonlight Equity Pvt Ltd","Promoters","Equity Shares","1384455","8.46",,"26317","2314129","Buy","Equity Shares","1410772","8.62","24-Jun-2020","24-Jun-2020","26-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","29-Jun-2020 11:00","https://archives.nseindia.com/corporate/xbrl/IT_1074426_270740_29062020110055_WEB.xml"
+"CAPTRUST","Capital Trust Limited","7(2)","Moonlight Equity Pvt Ltd","Promoters","Equity Shares","1359455","8.31",,"25000","2354852","Buy","Equity Shares","1384455","8.46","23-Jun-2020","23-Jun-2020","24-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","25-Jun-2020 16:22","https://archives.nseindia.com/corporate/xbrl/IT_1074225_268695_25062020042229_WEB.xml"

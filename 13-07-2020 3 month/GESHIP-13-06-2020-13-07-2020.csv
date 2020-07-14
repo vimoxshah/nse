@@ -1,0 +1,36 @@
+﻿"SYMBOL 
+","COMPANY 
+","REGULATION 
+","NAME OF THE ACQUIRER/DISPOSER 
+","CATEGORY OF PERSON 
+","TYPE OF SECURITY (PRIOR) 
+","NO. OF SECURITY (PRIOR) 
+","% SHAREHOLDING (PRIOR) 
+","TYPE OF SECURITY (ACQUIRED/DISPLOSED) 
+","NO. OF SECURITIES (ACQUIRED/DISPLOSED) 
+","VALUE OF SECURITY (ACQUIRED/DISPLOSED) 
+","ACQUISITION/DISPOSAL TRANSACTION TYPE 
+","TYPE OF SECURITY (POST) 
+","NO. OF SECURITY (POST) 
+","% POST 
+","DATE OF ALLOTMENT/ACQUISITION FROM 
+","DATE OF ALLOTMENT/ACQUISITION TO 
+","DATE OF INITMATION TO COMPANY 
+","MODE OF ACQUISITION 
+","DERIVATIVE TYPE SECURITY 
+","DERIVATIVE CONTRACT SPECIFICATION 
+","NOTIONAL VALUE(BUY) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE (BUY) 
+","NOTIONAL VALUE(SELL) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE  (SELL) 
+","EXCHANGE 
+","REMARK 
+","BROADCASTE DATE AND TIME 
+","XBRL 
+"
+"GESHIP","The Great Eastern Shipping Company Limited","7(2)","RAVI K. SHETH","Promoters","Equity Shares","15502023","10.55",,"137000","29660630","Buy","Equity Shares","15639023","10.64","25-Jun-2020","25-Jun-2020","27-Jun-2020","Market Purchase","-","-","0","0","0","0","BSE","-","29-Jun-2020 15:41","https://archives.nseindia.com/corporate/xbrl/IT_1074456_270841_29062020034145_WEB.xml"
+"GESHIP","The Great Eastern Shipping Company Limited","7(2)","BHARAT KANAIYALAL SHETH","Promoters","Equity Shares","15200000","10.34",,"140000","30295858","Buy","Equity Shares","15340000","10.44","25-Jun-2020","25-Jun-2020","27-Jun-2020","Market Purchase","-","-","0","0","0","0","BSE","-","29-Jun-2020 15:41","https://archives.nseindia.com/corporate/xbrl/IT_1074456_270841_29062020034145_WEB.xml"
+"GESHIP","The Great Eastern Shipping Company Limited","7(2)","BHARAT KANAIYALAL SHETH","Promoters","Equity Shares","15340000","10.44",,"260000","56784696","Buy","Equity Shares","15600000","10.61","26-Jun-2020","26-Jun-2020","27-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","29-Jun-2020 15:41","https://archives.nseindia.com/corporate/xbrl/IT_1074456_270841_29062020034145_WEB.xml"
+"GESHIP","The Great Eastern Shipping Company Limited","7(2)","RAVI K. SHETH","Promoters","Equity Shares","15639023","10.64",,"260000","56811452","Buy","Equity Shares","15899023","10.82","26-Jun-2020","26-Jun-2020","27-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","29-Jun-2020 15:41","https://archives.nseindia.com/corporate/xbrl/IT_1074456_270841_29062020034145_WEB.xml"
+"GESHIP","The Great Eastern Shipping Company Limited","7(2)","RAVI K. SHETH","Promoters","Equity Shares","15499523","10.55",,"2500","526879","Buy","Equity Shares","15502023","10.55","16-Jun-2020","16-Jun-2020","17-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","17-Jun-2020 12:42","https://archives.nseindia.com/corporate/xbrl/IT_1073649_265891_17062020124219_WEB.xml"
+"GESHIP","The Great Eastern Shipping Company Limited","7(2)","RAVI K. SHETH","Promoters","Equity Shares","15499023","10.55",,"500","105244","Buy","Equity Shares","15499523","10.55","15-Jun-2020","15-Jun-2020","17-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","17-Jun-2020 12:42","https://archives.nseindia.com/corporate/xbrl/IT_1073649_265891_17062020124219_WEB.xml"

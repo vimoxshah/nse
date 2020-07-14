@@ -1,0 +1,56 @@
+﻿"SYMBOL 
+","COMPANY 
+","REGULATION 
+","NAME OF THE ACQUIRER/DISPOSER 
+","CATEGORY OF PERSON 
+","TYPE OF SECURITY (PRIOR) 
+","NO. OF SECURITY (PRIOR) 
+","% SHAREHOLDING (PRIOR) 
+","TYPE OF SECURITY (ACQUIRED/DISPLOSED) 
+","NO. OF SECURITIES (ACQUIRED/DISPLOSED) 
+","VALUE OF SECURITY (ACQUIRED/DISPLOSED) 
+","ACQUISITION/DISPOSAL TRANSACTION TYPE 
+","TYPE OF SECURITY (POST) 
+","NO. OF SECURITY (POST) 
+","% POST 
+","DATE OF ALLOTMENT/ACQUISITION FROM 
+","DATE OF ALLOTMENT/ACQUISITION TO 
+","DATE OF INITMATION TO COMPANY 
+","MODE OF ACQUISITION 
+","DERIVATIVE TYPE SECURITY 
+","DERIVATIVE CONTRACT SPECIFICATION 
+","NOTIONAL VALUE(BUY) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE (BUY) 
+","NOTIONAL VALUE(SELL) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE  (SELL) 
+","EXCHANGE 
+","REMARK 
+","BROADCASTE DATE AND TIME 
+","XBRL 
+"
+"GODREJIND","Godrej Industries Limited","7(2)","Nitin S. Nabar","Director","Equity Shares","27818","0.01",,"1820","760517","Sell","Equity Shares","25998","0.01","30-Jun-2020","30-Jun-2020","02-Jul-2020","Market Sale","-","-","0","0","0","0","BSE,NSE","-","03-Jul-2020 20:23","https://archives.nseindia.com/corporate/xbrl/IT_1074882_273930_03072020082355_WEB.xml"
+"GODREJIND","Godrej Industries Limited","7(2)","Godrej Seeds & Genetics Limited","Promoter Group","Equity Shares","6662264","1.98",,"87498","36643033","Buy","Equity Shares","6749762","2.01","30-Jun-2020","30-Jun-2020","01-Jul-2020","Market Purchase","-","-","0","0","0","0","BSE,NSE","-","02-Jul-2020 21:53","https://archives.nseindia.com/corporate/xbrl/IT_1074823_273640_02072020095348_WEB.xml"
+"GODREJIND","Godrej Industries Limited","7(2)","Godrej Seeds & Genetics Limited","Promoter Group","Equity Shares","6604764","1.96",,"57500","23867603","Buy","Equity Shares","6662264","1.98","29-Jun-2020","29-Jun-2020","01-Jul-2020","Market Purchase","-","-","0","0","0","0","BSE,NSE","-","02-Jul-2020 21:53","https://archives.nseindia.com/corporate/xbrl/IT_1074823_273640_02072020095348_WEB.xml"
+"GODREJIND","Godrej Industries Limited","7(2)","Nitin S. Nabar","Director","Equity Shares","17345","0.01",,"12186","12186","Buy","Equity Shares","29531","0.01","26-Jun-2020","26-Jun-2020","30-Jun-2020","ESOP","-","-","0","0","0","0","NA","-","02-Jul-2020 15:42","https://archives.nseindia.com/corporate/xbrl/IT_1074770_273474_02072020034230_WEB.xml"
+"GODREJIND","Godrej Industries Limited","7(2)","Nitin S. Nabar","Director","Equity Shares","29531","0.01",,"1000","422802","Sell","Equity Shares","28531","0.01","26-Jun-2020","26-Jun-2020","30-Jun-2020","Market Sale","-","-","0","0","0","0","BSE,NSE","-","02-Jul-2020 15:42","https://archives.nseindia.com/corporate/xbrl/IT_1074770_273474_02072020034230_WEB.xml"
+"GODREJIND","Godrej Industries Limited","7(2)","Nitin S. Nabar","Director","Equity Shares","28531","0.01",,"713","298071","Sell","Equity Shares","27818","0.01","29-Jun-2020","29-Jun-2020","30-Jun-2020","Market Sale","-","-","0","0","0","0","BSE,NSE","-","02-Jul-2020 15:42","https://archives.nseindia.com/corporate/xbrl/IT_1074770_273474_02072020034230_WEB.xml"
+"GODREJIND","Godrej Industries Limited","7(2)","Godrej Seeds & Genetics Limited","Promoter Group","Equity Shares","6490827","1.93",,"113937","48235224","Buy","Equity Shares","6604764","1.96","26-Jun-2020","26-Jun-2020","29-Jun-2020","Market Purchase","-","-","0","0","0","0","BSE,NSE","-","01-Jul-2020 21:58","https://archives.nseindia.com/corporate/xbrl/IT_1074736_273320_01072020095801_WEB.xml"
+"GODREJIND","Godrej Industries Limited","7(2)","Godrej Seeds & Genetics Limited","Promoter Group","Equity Shares","6430628","1.91",,"60199","24929692","Buy","Equity Shares","6490827","1.93","25-Jun-2020","25-Jun-2020","29-Jun-2020","Market Purchase","-","-","0","0","0","0","BSE,NSE","-","01-Jul-2020 21:58","https://archives.nseindia.com/corporate/xbrl/IT_1074736_273320_01072020095801_WEB.xml"
+"GODREJIND","Godrej Industries Limited","7(2)","Nitin S. Nabar","Director","Equity Shares","18345","0.01",,"1000","417822","Sell","Equity Shares","17345","0.01","25-Jun-2020","25-Jun-2020","26-Jun-2020","Market Sale","-","-","0","0","0","0","BSE,NSE","-","30-Jun-2020 17:39","https://archives.nseindia.com/corporate/xbrl/IT_1074574_272187_30062020053950_WEB.xml"
+"GODREJIND","Godrej Industries Limited","7(2)","Nitin S. Nabar","Director","Equity Shares","19845","0.01",,"1500","628524","Sell","Equity Shares","18345","0.01","24-Jun-2020","24-Jun-2020","26-Jun-2020","Market Sale","-","-","0","0","0","0","BSE,NSE","-","30-Jun-2020 17:39","https://archives.nseindia.com/corporate/xbrl/IT_1074574_272187_30062020053950_WEB.xml"
+"GODREJIND","Godrej Industries Limited","7(2)","Godrej Seeds & Genetics Limited","Promoter Group","Equity Shares","6170652","1.83",,"115156","47271672","Buy","Equity Shares","6285808","1.87","23-Jun-2020","23-Jun-2020","25-Jun-2020","Market Purchase","-","-","0","0","0","0","BSE,NSE","-","29-Jun-2020 22:29","https://archives.nseindia.com/corporate/xbrl/IT_1074519_271218_29062020102933_WEB.xml"
+"GODREJIND","Godrej Industries Limited","7(2)","Godrej Seeds & Genetics Limited","Promoter Group","Equity Shares","6285808","1.87",,"144820","60699244","Buy","Equity Shares","6430628","1.91","24-Jun-2020","24-Jun-2020","25-Jun-2020","Market Purchase","-","-","0","0","0","0","BSE,NSE","-","29-Jun-2020 22:29","https://archives.nseindia.com/corporate/xbrl/IT_1074519_271218_29062020102933_WEB.xml"
+"GODREJIND","Godrej Industries Limited","7(2)","Nitin S. Nabar","Director","Equity Shares","24345","0.01",,"4000","1540443","Sell","Equity Shares","20345","0.01","22-Jun-2020","22-Jun-2020","24-Jun-2020","Market Sale","-","-","0","0","0","0","BSE,NSE","-","26-Jun-2020 15:32","https://archives.nseindia.com/corporate/xbrl/IT_1074317_269298_26062020033217_WEB.xml"
+"GODREJIND","Godrej Industries Limited","7(2)","Nitin S. Nabar","Director","Equity Shares","20345","0.01",,"500","202287","Sell","Equity Shares","19845","0.01","23-Jun-2020","23-Jun-2020","24-Jun-2020","Market Sale","-","-","0","0","0","0","BSE,NSE","-","26-Jun-2020 15:32","https://archives.nseindia.com/corporate/xbrl/IT_1074317_269298_26062020033217_WEB.xml"
+"GODREJIND","Godrej Industries Limited","7(2)","Godrej Seeds & Genetics Limited","Promoter Group","Equity Shares","5413103","1.61",,"131249","50035780","Buy","Equity Shares","5544352","1.65","19-Jun-2020","19-Jun-2020","23-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","25-Jun-2020 21:55","https://archives.nseindia.com/corporate/xbrl/IT_1074283_268984_25062020095547_WEB.xml"
+"GODREJIND","Godrej Industries Limited","7(2)","Godrej Seeds & Genetics Limited","Promoter Group","Equity Shares","5544352","1.65",,"626300","250127437","Buy","Equity Shares","6170652","1.83","22-Jun-2020","22-Jun-2020","23-Jun-2020","Market Purchase","-","-","0","0","0","0","BSE,NSE","-","25-Jun-2020 21:55","https://archives.nseindia.com/corporate/xbrl/IT_1074283_268984_25062020095547_WEB.xml"
+"GODREJIND","Godrej Industries Limited","7(2)","Nitin S. Nabar","Director","Equity Shares","26345","0.01",,"2000","759450","Sell","Equity Shares","24345","0.01","19-Jun-2020","19-Jun-2020","22-Jun-2020","Market Sale","-","-","0","0","0","0","BSE,NSE","-","24-Jun-2020 13:25","https://archives.nseindia.com/corporate/xbrl/IT_1074090_267992_24062020012521_WEB.xml"
+"GODREJIND","Godrej Industries Limited","7(2)","Nitin S. Nabar","Director","Equity Shares","28345","0.01",,"2000","751839","Sell","Equity Shares","26345","0.01","18-Jun-2020","18-Jun-2020","22-Jun-2020","Market Sale","-","-","0","0","0","0","BSE,NSE","-","24-Jun-2020 13:25","https://archives.nseindia.com/corporate/xbrl/IT_1074090_267992_24062020012521_WEB.xml"
+"GODREJIND","Godrej Industries Limited","7(2)","Godrej Seeds & Genetics Limited","Promoter Group","Equity Shares","5371742","1.6",,"41361","15578362","Buy","Equity Shares","5413103","1.61","18-Jun-2020","18-Jun-2020","19-Jun-2020","Market Purchase","-","-","0","0","0","0","BSE,NSE","-","23-Jun-2020 22:17","https://archives.nseindia.com/corporate/xbrl/IT_1074062_267871_23062020101719_WEB.xml"
+"GODREJIND","Godrej Industries Limited","7(2)","Godrej Seeds & Genetics Limited","Promoter Group","Equity Shares","5326818","1.58",,"44924","16934950","Buy","Equity Shares","5371742","1.6","17-Jun-2020","17-Jun-2020","19-Jun-2020","Market Purchase","-","-","0","0","0","0","BSE,NSE","-","23-Jun-2020 22:17","https://archives.nseindia.com/corporate/xbrl/IT_1074062_267871_23062020101719_WEB.xml"
+"GODREJIND","Godrej Industries Limited","7(2)","Godrej Seeds & Genetics Limited","Promoter Group","Equity Shares","5130517","1.52",,"84301","32105202","Buy","Equity Shares","5214818","1.55","15-Jun-2020","15-Jun-2020","17-Jun-2020","Market Purchase","-","-","0","0","0","0","BSE,NSE","-","19-Jun-2020 21:26","https://archives.nseindia.com/corporate/xbrl/IT_1073865_266943_19062020092643_WEB.xml"
+"GODREJIND","Godrej Industries Limited","7(2)","Godrej Seeds & Genetics Limited","Promoter Group","Equity Shares","5214818","1.55",,"112000","42909891","Buy","Equity Shares","5326818","1.58","16-Jun-2020","16-Jun-2020","17-Jun-2020","Market Purchase","-","-","0","0","0","0","BSE,NSE","-","19-Jun-2020 21:26","https://archives.nseindia.com/corporate/xbrl/IT_1073865_266943_19062020092643_WEB.xml"
+"GODREJIND","Godrej Industries Limited","7(2)","Godrej Seeds & Genetics Limited","Promoter Group","Equity Shares","5070353","1.51",,"60164","22475702","Buy","Equity Shares","5130517","1.52","12-Jun-2020","12-Jun-2020","15-Jun-2020","Market Purchase","-","-","0","0","0","0","BSE,NSE","-","17-Jun-2020 21:16","https://archives.nseindia.com/corporate/xbrl/IT_1073721_266184_17062020091615_WEB.xml"
+"GODREJIND","Godrej Industries Limited","7(2)","Godrej Seeds & Genetics Limited","Promoter Group","Equity Shares","4995258","1.48",,"75095","29103244","Buy","Equity Shares","5070353","1.51","11-Jun-2020","11-Jun-2020","15-Jun-2020","Market Purchase","-","-","0","0","0","0","BSE,NSE","-","17-Jun-2020 21:16","https://archives.nseindia.com/corporate/xbrl/IT_1073721_266184_17062020091615_WEB.xml"
+"GODREJIND","Godrej Industries Limited","7(2)","Godrej Seeds & Genetics Limited","Promoter Group","Equity Shares","4893256","1.45",,"102002","39248568","Buy","Equity Shares","4995258","1.48","10-Jun-2020","10-Jun-2020","11-Jun-2020","Market Purchase","-","-","0","0","0","0","BSE,NSE","-","15-Jun-2020 21:50","https://archives.nseindia.com/corporate/xbrl/IT_1073565_265568_15062020095049_WEB.xml"
+"GODREJIND","Godrej Industries Limited","7(2)","Godrej Seeds & Genetics Limited","Promoter Group","Equity Shares","4821825","1.43",,"71431","27412203","Buy","Equity Shares","4893256","1.45","09-Jun-2020","09-Jun-2020","11-Jun-2020","Market Purchase","-","-","0","0","0","0","BSE,NSE","-","15-Jun-2020 21:50","https://archives.nseindia.com/corporate/xbrl/IT_1073565_265568_15062020095049_WEB.xml"

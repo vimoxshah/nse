@@ -1,0 +1,36 @@
+﻿"SYMBOL 
+","COMPANY 
+","REGULATION 
+","NAME OF THE ACQUIRER/DISPOSER 
+","CATEGORY OF PERSON 
+","TYPE OF SECURITY (PRIOR) 
+","NO. OF SECURITY (PRIOR) 
+","% SHAREHOLDING (PRIOR) 
+","TYPE OF SECURITY (ACQUIRED/DISPLOSED) 
+","NO. OF SECURITIES (ACQUIRED/DISPLOSED) 
+","VALUE OF SECURITY (ACQUIRED/DISPLOSED) 
+","ACQUISITION/DISPOSAL TRANSACTION TYPE 
+","TYPE OF SECURITY (POST) 
+","NO. OF SECURITY (POST) 
+","% POST 
+","DATE OF ALLOTMENT/ACQUISITION FROM 
+","DATE OF ALLOTMENT/ACQUISITION TO 
+","DATE OF INITMATION TO COMPANY 
+","MODE OF ACQUISITION 
+","DERIVATIVE TYPE SECURITY 
+","DERIVATIVE CONTRACT SPECIFICATION 
+","NOTIONAL VALUE(BUY) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE (BUY) 
+","NOTIONAL VALUE(SELL) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE  (SELL) 
+","EXCHANGE 
+","REMARK 
+","BROADCASTE DATE AND TIME 
+","XBRL 
+"
+"MAHINDCIE","Mahindra CIE Automotive Limited","7(2)","Participaciones Internacionales Autometal, Dos S.L","Promoters","Equity Shares","219437742","57.9",,"479000","57427837","Buy","Equity Shares","219916742","58.02","29-Jun-2020","29-Jun-2020","30-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","30-Jun-2020 19:45","https://archives.nseindia.com/corporate/xbrl/IT_1074610_272465_30062020074529_WEB.xml"
+"MAHINDCIE","Mahindra CIE Automotive Limited","7(2)","Participaciones Internacionales Autometal, Dos S.L","Promoters","Equity Shares","218937742","57.77",,"500000","59993600","Buy","Equity Shares","219437742","57.9","26-Jun-2020","26-Jun-2020","29-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","30-Jun-2020 11:05","https://archives.nseindia.com/corporate/xbrl/IT_1074527_271303_30062020110510_WEB.xml"
+"MAHINDCIE","Mahindra CIE Automotive Limited","7(2)","Participaciones Internacionales Autometal, Dos S.L","Promoters","Equity Shares","213705742","56.39",,"5232000","627907493","Buy","Equity Shares","218937742","57.77","23-Jun-2020","23-Jun-2020","25-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","25-Jun-2020 19:38","https://archives.nseindia.com/corporate/xbrl/IT_1074269_268914_25062020073803_WEB.xml"
+"MAHINDCIE","Mahindra CIE Automotive Limited","7(2)","Participaciones Internacionales Autometal, Dos S.L","Promoters","Equity Shares","213549753","56.34",,"155989","17852941","Buy","Equity Shares","213705742","56.39","22-Jun-2020","22-Jun-2020","24-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","24-Jun-2020 21:02","https://archives.nseindia.com/corporate/xbrl/IT_1074163_268370_24062020090223_WEB.xml"
+"MAHINDCIE","Mahindra CIE Automotive Limited","7(2)","Participaciones Internacionales Autometal, Dos S.L","Promoters","Equity Shares","213525139","56.34",,"24614","2682926","Buy","Equity Shares","213549753","56.34","19-Jun-2020","19-Jun-2020","23-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","24-Jun-2020 21:02","https://archives.nseindia.com/corporate/xbrl/IT_1074163_268370_24062020090223_WEB.xml"
+"MAHINDCIE","Mahindra CIE Automotive Limited","7(2)","Participaciones Internacionales Autometal, Dos S.L","Promoters","Equity Shares","213400285","56.3",,"124854","12324220","Buy","Equity Shares","213525139","56.34","30-Apr-2020","17-Jun-2020","19-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","19-Jun-2020 18:53","https://archives.nseindia.com/corporate/xbrl/IT_1073846_266876_19062020065259_WEB.xml"

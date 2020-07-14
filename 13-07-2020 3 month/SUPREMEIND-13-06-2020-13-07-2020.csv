@@ -1,0 +1,35 @@
+﻿"SYMBOL 
+","COMPANY 
+","REGULATION 
+","NAME OF THE ACQUIRER/DISPOSER 
+","CATEGORY OF PERSON 
+","TYPE OF SECURITY (PRIOR) 
+","NO. OF SECURITY (PRIOR) 
+","% SHAREHOLDING (PRIOR) 
+","TYPE OF SECURITY (ACQUIRED/DISPLOSED) 
+","NO. OF SECURITIES (ACQUIRED/DISPLOSED) 
+","VALUE OF SECURITY (ACQUIRED/DISPLOSED) 
+","ACQUISITION/DISPOSAL TRANSACTION TYPE 
+","TYPE OF SECURITY (POST) 
+","NO. OF SECURITY (POST) 
+","% POST 
+","DATE OF ALLOTMENT/ACQUISITION FROM 
+","DATE OF ALLOTMENT/ACQUISITION TO 
+","DATE OF INITMATION TO COMPANY 
+","MODE OF ACQUISITION 
+","DERIVATIVE TYPE SECURITY 
+","DERIVATIVE CONTRACT SPECIFICATION 
+","NOTIONAL VALUE(BUY) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE (BUY) 
+","NOTIONAL VALUE(SELL) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE  (SELL) 
+","EXCHANGE 
+","REMARK 
+","BROADCASTE DATE AND TIME 
+","XBRL 
+"
+"SUPREMEIND","Supreme Industries Limited","7(2)","Jovial Investment and Trading Company Private Limited","Promoter Group","Equity Shares","20108268","15.83",,"370370","401161442","Buy","Equity Shares","20478638","16.12","17-Jun-2020","17-Jun-2020","18-Jun-2020","Market Purchase","-","-","0","0","0","0","BSE","-","18-Jun-2020 16:22","https://archives.nseindia.com/corporate/xbrl/IT_1073754_266385_18062020042228_WEB.xml"
+"SUPREMEIND","Supreme Industries Limited","7(2)","Boon Investment and Trading Company Private Limited U65923MH2010PTC202488","Promoter Group","Equity Shares","20357956","16.03",,"100000","108313719","Buy","Equity Shares","20457956","16.11","17-Jun-2020","17-Jun-2020","18-Jun-2020","Market Purchase","-","-","0","0","0","0","BSE","-","18-Jun-2020 16:22","https://archives.nseindia.com/corporate/xbrl/IT_1073754_266385_18062020042228_WEB.xml"
+"SUPREMEIND","Supreme Industries Limited","7(2)","VIVEKKUMAR VIJAYKUMAR TAPARIA","Promoter Group","Equity Shares","262230","0.21",,"100000","107686281","Sell","Equity Shares","162230","0.13","17-Jun-2020","17-Jun-2020","18-Jun-2020","Market Sale","-","-","0","0","0","0","BSE","-","18-Jun-2020 16:22","https://archives.nseindia.com/corporate/xbrl/IT_1073754_266385_18062020042228_WEB.xml"
+"SUPREMEIND","Supreme Industries Limited","7(2)","VIJAYKUMAR B TAPARIA","Promoter Group","Equity Shares","344890","0.27",,"100000","107686281","Sell","Equity Shares","244890","0.19","17-Jun-2020","17-Jun-2020","18-Jun-2020","Market Sale","-","-","0","0","0","0","BSE","-","18-Jun-2020 16:22","https://archives.nseindia.com/corporate/xbrl/IT_1073754_266385_18062020042228_WEB.xml"
+"SUPREMEIND","Supreme Industries Limited","7(2)","VENKTESH INVESTMENT AND TRADING COMPANY PRIVATE LIMITED","Promoter Group","Equity Shares","19693081","15.5",,"1651852","1778679699","Sell","Equity Shares","18041229","14.2","17-Jun-2020","17-Jun-2020","18-Jun-2020","Market Sale","-","-","0","0","0","0","BSE","-","18-Jun-2020 16:22","https://archives.nseindia.com/corporate/xbrl/IT_1073754_266385_18062020042228_WEB.xml"

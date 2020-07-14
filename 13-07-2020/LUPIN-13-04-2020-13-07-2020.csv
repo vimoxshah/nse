@@ -1,0 +1,35 @@
+﻿"SYMBOL 
+","COMPANY 
+","REGULATION 
+","NAME OF THE ACQUIRER/DISPOSER 
+","CATEGORY OF PERSON 
+","TYPE OF SECURITY (PRIOR) 
+","NO. OF SECURITY (PRIOR) 
+","% SHAREHOLDING (PRIOR) 
+","TYPE OF SECURITY (ACQUIRED/DISPLOSED) 
+","NO. OF SECURITIES (ACQUIRED/DISPLOSED) 
+","VALUE OF SECURITY (ACQUIRED/DISPLOSED) 
+","ACQUISITION/DISPOSAL TRANSACTION TYPE 
+","TYPE OF SECURITY (POST) 
+","NO. OF SECURITY (POST) 
+","% POST 
+","DATE OF ALLOTMENT/ACQUISITION FROM 
+","DATE OF ALLOTMENT/ACQUISITION TO 
+","DATE OF INITMATION TO COMPANY 
+","MODE OF ACQUISITION 
+","DERIVATIVE TYPE SECURITY 
+","DERIVATIVE CONTRACT SPECIFICATION 
+","NOTIONAL VALUE(BUY) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE (BUY) 
+","NOTIONAL VALUE(SELL) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE  (SELL) 
+","EXCHANGE 
+","REMARK 
+","BROADCASTE DATE AND TIME 
+","XBRL 
+"
+"LUPIN","Lupin Limited","7(2)","MR. NILESH DESHBANDHU GUPTA","Promoters","Equity Shares","927411","0.2",,"2730","2498633","Buy","Equity Shares","930141","0.2","30-Jun-2020","30-Jun-2020","30-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","30-Jun-2020 18:05","https://archives.nseindia.com/corporate/xbrl/IT_1074584_272245_30062020060527_WEB.xml"
+"LUPIN","Lupin Limited","7(2)","Dr. Kamal K Sharma","Employees/Designated Employees","Equity Shares","159900","0.03",,"10000","9430000","Sell","Equity Shares","149900","0.03","25-Jun-2020","25-Jun-2020","25-Jun-2020","Market Sale","-","-","0","0","0","0","NSE","-","25-Jun-2020 16:44","https://archives.nseindia.com/corporate/xbrl/IT_1074233_268723_25062020044418_WEB.xml"
+"LUPIN","Lupin Limited","7(2)","Dr. Kamal K Sharma","Employees/Designated Employees","Equity Shares","169900","0.04",,"10000","9432800","Sell","Equity Shares","159900","0.04","15-Jun-2020","15-Jun-2020","19-Jun-2020","Market Sale","-","-","0","0","0","0","NSE","-","23-Jun-2020 17:05","https://archives.nseindia.com/corporate/xbrl/IT_1074025_267706_23062020050545_WEB.xml"
+"LUPIN","Lupin Limited","7(2)","Ramesh Swaminathan","Employees/Designated Employees","Equity Shares","18732","0",,"6500","5956555","Sell","Equity Shares","12232","0","02-Jun-2020","10-Jun-2020","11-Jun-2020","Market Sale","-","-","0","0","0","0","NSE","-","11-Jun-2020 16:05","https://archives.nseindia.com/corporate/xbrl/IT_1073374_264739_11062020040540_WEB.xml"
+"LUPIN","Lupin Limited","7(2)","MR. NILESH DESHBANDHU GUPTA","Promoters","Equity Shares","904764","0.2",,"22647","20000592","Buy","Equity Shares","927411","0.2","03-Jun-2020","03-Jun-2020","04-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","04-Jun-2020 20:55","https://archives.nseindia.com/corporate/xbrl/IT_1073069_263567_04062020085508_WEB.xml"

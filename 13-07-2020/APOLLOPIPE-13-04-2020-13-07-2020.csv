@@ -1,0 +1,36 @@
+﻿"SYMBOL 
+","COMPANY 
+","REGULATION 
+","NAME OF THE ACQUIRER/DISPOSER 
+","CATEGORY OF PERSON 
+","TYPE OF SECURITY (PRIOR) 
+","NO. OF SECURITY (PRIOR) 
+","% SHAREHOLDING (PRIOR) 
+","TYPE OF SECURITY (ACQUIRED/DISPLOSED) 
+","NO. OF SECURITIES (ACQUIRED/DISPLOSED) 
+","VALUE OF SECURITY (ACQUIRED/DISPLOSED) 
+","ACQUISITION/DISPOSAL TRANSACTION TYPE 
+","TYPE OF SECURITY (POST) 
+","NO. OF SECURITY (POST) 
+","% POST 
+","DATE OF ALLOTMENT/ACQUISITION FROM 
+","DATE OF ALLOTMENT/ACQUISITION TO 
+","DATE OF INITMATION TO COMPANY 
+","MODE OF ACQUISITION 
+","DERIVATIVE TYPE SECURITY 
+","DERIVATIVE CONTRACT SPECIFICATION 
+","NOTIONAL VALUE(BUY) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE (BUY) 
+","NOTIONAL VALUE(SELL) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE  (SELL) 
+","EXCHANGE 
+","REMARK 
+","BROADCASTE DATE AND TIME 
+","XBRL 
+"
+"APOLLOPIPE","Apollo Pipes Limited","7(2)","MEENAKSHI GUPTA","Promoters","Equity Shares","3335746","25.45",,"100000","32525501","Buy","Equity Shares","3435746","26.21","18-Jun-2020","18-Jun-2020","19-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","19-Jun-2020 14:48","https://archives.nseindia.com/corporate/xbrl/IT_1073818_266741_19062020024806_WEB.xml"
+"APOLLOPIPE","Apollo Pipes Limited","7(2)","MEENAKSHI GUPTA","Promoters","Equity Shares","3285524","25.06",,"50222","15333766","Buy","Equity Shares","3335746","25.45","07-May-2020","01-Jun-2020","02-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","02-Jun-2020 15:48","https://archives.nseindia.com/corporate/xbrl/IT_1072898_263039_02062020034832_WEB.xml"
+"APOLLOPIPE","Apollo Pipes Limited","7(2)","SAMEER GUPTA","Promoters","Equity Shares","3149254","24.02",,"75000","24767994","Buy","Equity Shares","3224254","24.59","08-May-2020","08-May-2020","08-May-2020","Market Purchase","-","-","0","0","0","0","NSE","-","09-May-2020 11:03","https://archives.nseindia.com/corporate/xbrl/IT_1072323_250861_09052020110333_WEB.xml"
+"APOLLOPIPE","Apollo Pipes Limited","7(2)","SAMEER GUPTA","Promoters","Equity Shares","3004778","22.92",,"144476","46808526","Buy","Equity Shares","3149254","24.02","07-May-2020","07-May-2020","07-May-2020","Market Purchase","-","-","0","0","0","0","NSE","-","08-May-2020 09:04","https://archives.nseindia.com/corporate/xbrl/IT_1072303_249934_08052020090431_WEB.xml"
+"APOLLOPIPE","Apollo Pipes Limited","7(2)","SAMEER GUPTA","Promoters","Equity Shares","2853778","21.77",,"151000","47604488","Buy","Equity Shares","3004778","22.92","06-May-2020","06-May-2020","06-May-2020","Market Purchase","-","-","0","0","0","0","NSE","-","07-May-2020 08:51","https://archives.nseindia.com/corporate/xbrl/IT_1072289_249171_07052020085158_WEB.xml"
+"APOLLOPIPE","Apollo Pipes Limited","7(2)","SAMEER GUPTA","Promoters","Equity Shares","2728778","20.82",,"125000","38779295","Buy","Equity Shares","2853778","21.77","05-May-2020","05-May-2020","05-May-2020","Market Purchase","-","-","0","0","0","0","NSE","-","06-May-2020 09:23","https://archives.nseindia.com/corporate/xbrl/IT_1072272_248480_06052020092329_WEB.xml"

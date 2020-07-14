@@ -1,0 +1,54 @@
+﻿"SYMBOL 
+","COMPANY 
+","REGULATION 
+","NAME OF THE ACQUIRER/DISPOSER 
+","CATEGORY OF PERSON 
+","TYPE OF SECURITY (PRIOR) 
+","NO. OF SECURITY (PRIOR) 
+","% SHAREHOLDING (PRIOR) 
+","TYPE OF SECURITY (ACQUIRED/DISPLOSED) 
+","NO. OF SECURITIES (ACQUIRED/DISPLOSED) 
+","VALUE OF SECURITY (ACQUIRED/DISPLOSED) 
+","ACQUISITION/DISPOSAL TRANSACTION TYPE 
+","TYPE OF SECURITY (POST) 
+","NO. OF SECURITY (POST) 
+","% POST 
+","DATE OF ALLOTMENT/ACQUISITION FROM 
+","DATE OF ALLOTMENT/ACQUISITION TO 
+","DATE OF INITMATION TO COMPANY 
+","MODE OF ACQUISITION 
+","DERIVATIVE TYPE SECURITY 
+","DERIVATIVE CONTRACT SPECIFICATION 
+","NOTIONAL VALUE(BUY) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE (BUY) 
+","NOTIONAL VALUE(SELL) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE  (SELL) 
+","EXCHANGE 
+","REMARK 
+","BROADCASTE DATE AND TIME 
+","XBRL 
+"
+"CHAMBLFERT","Chambal Fertilizers & Chemicals Limited","7(2)","THE HINDUSTAN TIMES LIMITED","Promoters","Equity Shares","57673649","13.86",,"30000","4353339","Buy","Equity Shares","57703649","13.86","25-Jun-2020","25-Jun-2020","26-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","29-Jun-2020 19:27","https://archives.nseindia.com/corporate/xbrl/IT_1074494_271094_29062020072740_WEB.xml"
+"CHAMBLFERT","Chambal Fertilizers & Chemicals Limited","7(2)","THE HINDUSTAN TIMES LIMITED","Promoters","Equity Shares","57703649","13.86",,"11200","1620662","Buy","Equity Shares","57714849","13.87","26-Jun-2020","26-Jun-2020","27-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","29-Jun-2020 19:27","https://archives.nseindia.com/corporate/xbrl/IT_1074494_271094_29062020072740_WEB.xml"
+"CHAMBLFERT","Chambal Fertilizers & Chemicals Limited","7(2)","THE HINDUSTAN TIMES LIMITED","Promoters","Equity Shares","57628649","13.85",,"45000","6574895","Buy","Equity Shares","57673649","13.86","24-Jun-2020","24-Jun-2020","25-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","26-Jun-2020 19:12","https://archives.nseindia.com/corporate/xbrl/IT_1074360_269704_26062020071258_WEB.xml"
+"CHAMBLFERT","Chambal Fertilizers & Chemicals Limited","7(2)","THE HINDUSTAN TIMES LIMITED","Promoters","Equity Shares","57618649","13.84",,"10000","1440881","Buy","Equity Shares","57628649","13.85","16-Jun-2020","23-Jun-2020","23-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","24-Jun-2020 16:51","https://archives.nseindia.com/corporate/xbrl/IT_1074106_268186_24062020045146_WEB.xml"
+"CHAMBLFERT","Chambal Fertilizers & Chemicals Limited","7(2)","Anil Kapoor","Director","Equity Shares","37000","0.01",,"8000","588000","Buy","Equity Shares","45000","0.01","19-Jun-2020","19-Jun-2020","19-Jun-2020","ESOP","-","-","0","0","0","0","NA","-","22-Jun-2020 17:38","https://archives.nseindia.com/corporate/xbrl/IT_1073955_267437_22062020053821_WEB.xml"
+"CHAMBLFERT","Chambal Fertilizers & Chemicals Limited","7(2)","Arun Mahajan as Trustee of CFCL Employees Welfare Trust","Other","Equity Shares","863000","0.21",,"27000","1984500","Sell","Equity Shares","836000","0.2","19-Jun-2020","19-Jun-2020","19-Jun-2020","ESOP","-","-","0","0","0","0","NA","-","22-Jun-2020 17:38","https://archives.nseindia.com/corporate/xbrl/IT_1073955_267437_22062020053821_WEB.xml"
+"CHAMBLFERT","Chambal Fertilizers & Chemicals Limited","7(2)","Naveen Pal Singh","Employees/Designated Employees","Equity Shares","9000","0",,"9000","661500","Buy","Equity Shares","18000","0","19-Jun-2020","19-Jun-2020","22-Jun-2020","ESOP","-","-","0","0","0","0","NA","-","22-Jun-2020 17:38","https://archives.nseindia.com/corporate/xbrl/IT_1073955_267437_22062020053821_WEB.xml"
+"CHAMBLFERT","Chambal Fertilizers & Chemicals Limited","7(2)","THE HINDUSTAN TIMES LIMITED","Promoters","Equity Shares","57613649","13.84",,"5000","697285","Buy","Equity Shares","57618649","13.84","15-Jun-2020","15-Jun-2020","17-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","17-Jun-2020 17:41","https://archives.nseindia.com/corporate/xbrl/IT_1073685_266049_17062020054125_WEB.xml"
+"CHAMBLFERT","Chambal Fertilizers & Chemicals Limited","7(2)","THE HINDUSTAN TIMES LIMITED","Promoters","Equity Shares","57603649","13.84",,"10000","1354380","Buy","Equity Shares","57613649","13.84","12-Jun-2020","12-Jun-2020","13-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","15-Jun-2020 16:06","https://archives.nseindia.com/corporate/xbrl/IT_1073526_265419_15062020040624_WEB.xml"
+"CHAMBLFERT","Chambal Fertilizers & Chemicals Limited","7(2)","THE HINDUSTAN TIMES LIMITED","Promoters","Equity Shares","57593649","13.84",,"10000","1369355","Buy","Equity Shares","57603649","13.84","11-Jun-2020","11-Jun-2020","12-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","13-Jun-2020 16:06","https://archives.nseindia.com/corporate/xbrl/IT_1073500_265287_13062020040646_WEB.xml"
+"CHAMBLFERT","Chambal Fertilizers & Chemicals Limited","7(2)","THE HINDUSTAN TIMES LIMITED","Promoters","Equity Shares","57573649","13.83",,"20000","2753802","Buy","Equity Shares","57593649","13.84","10-Jun-2020","10-Jun-2020","11-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","12-Jun-2020 16:45","https://archives.nseindia.com/corporate/xbrl/IT_1073462_265083_12062020044501_WEB.xml"
+"CHAMBLFERT","Chambal Fertilizers & Chemicals Limited","7(2)","THE HINDUSTAN TIMES LIMITED","Promoters","Equity Shares","57558649","13.83",,"15000","2070552","Buy","Equity Shares","57573649","13.83","09-Jun-2020","09-Jun-2020","10-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","11-Jun-2020 16:49","https://archives.nseindia.com/corporate/xbrl/IT_1073384_264767_11062020044916_WEB.xml"
+"CHAMBLFERT","Chambal Fertilizers & Chemicals Limited","7(2)","THE HINDUSTAN TIMES LIMITED","Promoters","Equity Shares","57548649","13.83",,"10000","1383075","Buy","Equity Shares","57558649","13.83","08-Jun-2020","08-Jun-2020","08-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","09-Jun-2020 16:40","https://archives.nseindia.com/corporate/xbrl/IT_1073254_264310_09062020044041_WEB.xml"
+"CHAMBLFERT","Chambal Fertilizers & Chemicals Limited","7(2)","Virendra Kumar Gupta","Employees/Designated Employees","Equity Shares","Nil","0",,"19000","1416600","Buy","Equity Shares","19000","0","05-Jun-2020","05-Jun-2020","08-Jun-2020","ESOP","-","-","0","0","0","0","NA","-","08-Jun-2020 18:31","https://archives.nseindia.com/corporate/xbrl/IT_1073187_264132_08062020063138_WEB.xml"
+"CHAMBLFERT","Chambal Fertilizers & Chemicals Limited","7(2)","Virendra Kishore Kapoor","Employees/Designated Employees","Equity Shares","12500","0",,"9000","661500","Buy","Equity Shares","21500","0","05-Jun-2020","05-Jun-2020","08-Jun-2020","ESOP","-","-","0","0","0","0","NA","-","08-Jun-2020 18:31","https://archives.nseindia.com/corporate/xbrl/IT_1073187_264132_08062020063138_WEB.xml"
+"CHAMBLFERT","Chambal Fertilizers & Chemicals Limited","7(2)","Alpana Juneja","Employees/Designated Employees","Equity Shares","32000","0.01",,"8000","663200","Buy","Equity Shares","40000","0.01","05-Jun-2020","05-Jun-2020","08-Jun-2020","ESOP","-","-","0","0","0","0","NA","-","08-Jun-2020 18:31","https://archives.nseindia.com/corporate/xbrl/IT_1073187_264132_08062020063138_WEB.xml"
+"CHAMBLFERT","Chambal Fertilizers & Chemicals Limited","7(2)","Arun Mahajan as Trustee of CFCL Employees Welfare Trust","Other","Equity Shares","918500","0.22",,"55500","4174550","Sell","Equity Shares","863000","0.21","05-Jun-2020","05-Jun-2020","05-Jun-2020","ESOP","-","-","0","0","0","0","NA","-","08-Jun-2020 18:31","https://archives.nseindia.com/corporate/xbrl/IT_1073187_264132_08062020063138_WEB.xml"
+"CHAMBLFERT","Chambal Fertilizers & Chemicals Limited","7(2)","THE HINDUSTAN TIMES LIMITED","Promoters","Equity Shares","57543649","13.83",,"5000","676325","Buy","Equity Shares","57548649","13.83","04-Jun-2020","04-Jun-2020","05-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","05-Jun-2020 18:10","https://archives.nseindia.com/corporate/xbrl/IT_1073115_263746_05062020061011_WEB.xml"
+"CHAMBLFERT","Chambal Fertilizers & Chemicals Limited","7(2)","THE HINDUSTAN TIMES LIMITED","Promoters","Equity Shares","57528649","13.82",,"15000","2030372","Buy","Equity Shares","57543649","13.83","02-Jun-2020","02-Jun-2020","03-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","04-Jun-2020 16:27","https://archives.nseindia.com/corporate/xbrl/IT_1073031_263463_04062020042724_WEB.xml"
+"CHAMBLFERT","Chambal Fertilizers & Chemicals Limited","7(2)","Zuari Global Limited","Promoters","Equity Shares","59015360","14.18",,"495000","65835000","Pledge Revoke","Equity Shares","59015360","14.18","26-May-2020","26-May-2020","28-May-2020","Revokation of Pledge","-","-","0","0","0","0","NA","-","01-Jun-2020 18:06","https://archives.nseindia.com/corporate/xbrl/IT_1072861_262932_01062020060629_WEB.xml"
+"CHAMBLFERT","Chambal Fertilizers & Chemicals Limited","7(2)","THE HINDUSTAN TIMES LIMITED","Promoters","Equity Shares","57388649","13.79",,"140000","18144986","Buy","Equity Shares","57528649","13.82","29-May-2020","29-May-2020","30-May-2020","Market Purchase","-","-","0","0","0","0","NSE","-","30-May-2020 21:44","https://archives.nseindia.com/corporate/xbrl/IT_1072825_262727_30052020094402_WEB.xml"
+"CHAMBLFERT","Chambal Fertilizers & Chemicals Limited","7(2)","THE HINDUSTAN TIMES LIMITED","Promoters","Equity Shares","57238649","13.75",,"100000","13371668","Buy","Equity Shares","57338649","13.78","27-May-2020","27-May-2020","29-May-2020","Market Purchase","-","-","0","0","0","0","NSE","-","30-May-2020 21:44","https://archives.nseindia.com/corporate/xbrl/IT_1072825_262727_30052020094402_WEB.xml"
+"CHAMBLFERT","Chambal Fertilizers & Chemicals Limited","7(2)","THE HINDUSTAN TIMES LIMITED","Promoters","Equity Shares","57338649","13.78",,"50000","6675681","Buy","Equity Shares","57388649","13.79","28-May-2020","28-May-2020","29-May-2020","Market Purchase","-","-","0","0","0","0","NSE","-","30-May-2020 21:44","https://archives.nseindia.com/corporate/xbrl/IT_1072825_262727_30052020094402_WEB.xml"
+"CHAMBLFERT","Chambal Fertilizers & Chemicals Limited","7(2)","THE HINDUSTAN TIMES LIMITED","Promoters","Equity Shares","57168649","13.74",,"70000","9386519","Buy","Equity Shares","57238649","13.75","26-May-2020","26-May-2020","27-May-2020","Market Purchase","-","-","0","0","0","0","NSE","-","28-May-2020 16:29","https://archives.nseindia.com/corporate/xbrl/IT_1072737_261754_28052020042910_WEB.xml"

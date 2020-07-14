@@ -1,0 +1,35 @@
+﻿"SYMBOL 
+","COMPANY 
+","REGULATION 
+","NAME OF THE ACQUIRER/DISPOSER 
+","CATEGORY OF PERSON 
+","TYPE OF SECURITY (PRIOR) 
+","NO. OF SECURITY (PRIOR) 
+","% SHAREHOLDING (PRIOR) 
+","TYPE OF SECURITY (ACQUIRED/DISPLOSED) 
+","NO. OF SECURITIES (ACQUIRED/DISPLOSED) 
+","VALUE OF SECURITY (ACQUIRED/DISPLOSED) 
+","ACQUISITION/DISPOSAL TRANSACTION TYPE 
+","TYPE OF SECURITY (POST) 
+","NO. OF SECURITY (POST) 
+","% POST 
+","DATE OF ALLOTMENT/ACQUISITION FROM 
+","DATE OF ALLOTMENT/ACQUISITION TO 
+","DATE OF INITMATION TO COMPANY 
+","MODE OF ACQUISITION 
+","DERIVATIVE TYPE SECURITY 
+","DERIVATIVE CONTRACT SPECIFICATION 
+","NOTIONAL VALUE(BUY) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE (BUY) 
+","NOTIONAL VALUE(SELL) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE  (SELL) 
+","EXCHANGE 
+","REMARK 
+","BROADCASTE DATE AND TIME 
+","XBRL 
+"
+"MANGLMCEM","Mangalam Cement Limited","7(2)","VIDULA CONSULTANCY SERVICES LIMITED","Promoters","Equity Shares","2220720","8.32",,"150000","28270500","Buy","Equity Shares","2370720","8.88","30-Jun-2020","30-Jun-2020","01-Jul-2020","Market Purchase","-","-","0","0","0","0","NSE","-","01-Jul-2020 17:51","https://archives.nseindia.com/corporate/xbrl/IT_1074677_273130_01072020055140_WEB.xml"
+"MANGLMCEM","Mangalam Cement Limited","7(2)","VIDULA CONSULTANCY SERVICES LIMITED","Promoters","Equity Shares","1970720","7.38",,"250000","47620142","Buy","Equity Shares","2220720","8.32","25-Jun-2020","25-Jun-2020","26-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","26-Jun-2020 18:40","https://archives.nseindia.com/corporate/xbrl/IT_1074353_269663_26062020064038_WEB.xml"
+"MANGLMCEM","Mangalam Cement Limited","7(2)","ANSHUMAN VIKRAM JALAN","Promoters","Equity Shares","40000","0.15",,"15000","2856746","Buy","Equity Shares","55000","0.21","24-Jun-2020","24-Jun-2020","25-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","26-Jun-2020 17:52","https://archives.nseindia.com/corporate/xbrl/IT_1074343_269570_26062020055253_WEB.xml"
+"MANGLMCEM","Mangalam Cement Limited","7(2)","VIDULA JALAN","Promoters","Equity Shares","76100","0.29",,"23900","4645535","Buy","Equity Shares","100000","0.37","24-Jun-2020","24-Jun-2020","25-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","26-Jun-2020 17:37","https://archives.nseindia.com/corporate/xbrl/IT_1074340_269525_26062020053724_WEB.xml"
+"MANGLMCEM","Mangalam Cement Limited","7(2)","VAISHNAVI JALAN","Promoters","Equity Shares","6629","0.02",,"43371","8403341","Buy","Equity Shares","50000","0.18","24-Jun-2020","24-Jun-2020","25-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","26-Jun-2020 17:16","https://archives.nseindia.com/corporate/xbrl/IT_1074338_269496_26062020051627_WEB.xml"

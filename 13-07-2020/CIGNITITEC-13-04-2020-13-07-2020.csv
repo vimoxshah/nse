@@ -1,0 +1,35 @@
+﻿"SYMBOL 
+","COMPANY 
+","REGULATION 
+","NAME OF THE ACQUIRER/DISPOSER 
+","CATEGORY OF PERSON 
+","TYPE OF SECURITY (PRIOR) 
+","NO. OF SECURITY (PRIOR) 
+","% SHAREHOLDING (PRIOR) 
+","TYPE OF SECURITY (ACQUIRED/DISPLOSED) 
+","NO. OF SECURITIES (ACQUIRED/DISPLOSED) 
+","VALUE OF SECURITY (ACQUIRED/DISPLOSED) 
+","ACQUISITION/DISPOSAL TRANSACTION TYPE 
+","TYPE OF SECURITY (POST) 
+","NO. OF SECURITY (POST) 
+","% POST 
+","DATE OF ALLOTMENT/ACQUISITION FROM 
+","DATE OF ALLOTMENT/ACQUISITION TO 
+","DATE OF INITMATION TO COMPANY 
+","MODE OF ACQUISITION 
+","DERIVATIVE TYPE SECURITY 
+","DERIVATIVE CONTRACT SPECIFICATION 
+","NOTIONAL VALUE(BUY) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE (BUY) 
+","NOTIONAL VALUE(SELL) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE  (SELL) 
+","EXCHANGE 
+","REMARK 
+","BROADCASTE DATE AND TIME 
+","XBRL 
+"
+"CIGNITITEC","Cigniti Technologies Limited","7(2)","V KRISHNAN","Key Managerial Personnel","Equity Shares","42750","0.15",,"2250","645233","Sell","Equity Shares","40500","0.14","19-Jun-2020","19-Jun-2020","19-Jun-2020","Market Sale","-","-","0","0","0","0","NSE","-","22-Jun-2020 19:53","https://archives.nseindia.com/corporate/xbrl/IT_1073973_267499_22062020075358_WEB.xml"
+"CIGNITITEC","Cigniti Technologies Limited","7(2)","Chakkilam Venkata Subramanyam","Promoters","Equity Shares","3140114","11.28",,"16091","4824398","Buy","Equity Shares","3156205","11.33","29-May-2020","29-May-2020","01-Jun-2020","Market Purchase","-","-","0","0","0","0","BSE,NSE","-","01-Jun-2020 13:36","https://archives.nseindia.com/corporate/xbrl/IT_1072839_262872_01062020013617_WEB.xml"
+"CIGNITITEC","Cigniti Technologies Limited","7(2)","Chakkilam Venkata Subramanyam","Promoters","Equity Shares","3124114","11.22",,"16000","5084571","Buy","Equity Shares","3140114","11.28","21-May-2020","21-May-2020","22-May-2020","Market Purchase","-","-","0","0","0","0","NSE","-","22-May-2020 17:22","https://archives.nseindia.com/corporate/xbrl/IT_1072600_260505_22052020052235_WEB.xml"
+"CIGNITITEC","Cigniti Technologies Limited","7(2)","Chakkilam Venkata Subramanyam","Promoters","Equity Shares","3061434","10.99",,"56664","18183174","Buy","Equity Shares","3118098","11.2","13-May-2020","13-May-2020","14-May-2020","Market Purchase","-","-","0","0","0","0","BSE,NSE","-","15-May-2020 13:25","https://archives.nseindia.com/corporate/xbrl/IT_1072427_257512_15052020012542_WEB.xml"
+"CIGNITITEC","Cigniti Technologies Limited","7(2)","Chakkilam Venkata Subramanyam","Promoters","Equity Shares","3118098","11.2",,"6016","1907356","Buy","Equity Shares","3124114","11.22","14-May-2020","14-May-2020","15-May-2020","Market Purchase","-","-","0","0","0","0","BSE,NSE","-","15-May-2020 13:25","https://archives.nseindia.com/corporate/xbrl/IT_1072427_257512_15052020012542_WEB.xml"

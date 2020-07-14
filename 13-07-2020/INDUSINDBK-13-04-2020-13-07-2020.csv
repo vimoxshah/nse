@@ -1,0 +1,44 @@
+﻿"SYMBOL 
+","COMPANY 
+","REGULATION 
+","NAME OF THE ACQUIRER/DISPOSER 
+","CATEGORY OF PERSON 
+","TYPE OF SECURITY (PRIOR) 
+","NO. OF SECURITY (PRIOR) 
+","% SHAREHOLDING (PRIOR) 
+","TYPE OF SECURITY (ACQUIRED/DISPLOSED) 
+","NO. OF SECURITIES (ACQUIRED/DISPLOSED) 
+","VALUE OF SECURITY (ACQUIRED/DISPLOSED) 
+","ACQUISITION/DISPOSAL TRANSACTION TYPE 
+","TYPE OF SECURITY (POST) 
+","NO. OF SECURITY (POST) 
+","% POST 
+","DATE OF ALLOTMENT/ACQUISITION FROM 
+","DATE OF ALLOTMENT/ACQUISITION TO 
+","DATE OF INITMATION TO COMPANY 
+","MODE OF ACQUISITION 
+","DERIVATIVE TYPE SECURITY 
+","DERIVATIVE CONTRACT SPECIFICATION 
+","NOTIONAL VALUE(BUY) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE (BUY) 
+","NOTIONAL VALUE(SELL) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE  (SELL) 
+","EXCHANGE 
+","REMARK 
+","BROADCASTE DATE AND TIME 
+","XBRL 
+"
+"INDUSINDBK","Indusind Bank Limited","7(2)","Indusind International Holdings Ltd","Promoters","Equity Shares","68365364","9.86",,"166000","79828890","Buy","Equity Shares","68531364","9.88","24-Jun-2020","25-Jun-2020","26-Jun-2020","Market Purchase","-","-","0","0","0","0","BSE","-","26-Jun-2020 12:22","https://archives.nseindia.com/corporate/xbrl/IT_1074300_269129_26062020122244_WEB.xml"
+"INDUSINDBK","Indusind Bank Limited","7(2)","SAMEER GUPTA","Employees/Designated Employees","Equity Shares","33250","0",,"1000","468260","Sell","Equity Shares","32250","0","18-Mar-2020","18-Mar-2020","24-Jun-2020","Market Sale","-","-","0","0","0","0","NSE","-","25-Jun-2020 17:54","https://archives.nseindia.com/corporate/xbrl/IT_1074248_268799_25062020055418_WEB.xml"
+"INDUSINDBK","Indusind Bank Limited","7(2)","TARUN KUMAR LALL","Employees/Designated Employees","Equity Shares","9500","0",,"3300","1497870","Buy","Equity Shares","12800","0","24-Jun-2020","24-Jun-2020","25-Jun-2020","ESOP","-","-","0","0","0","0","NA","-","25-Jun-2020 17:54","https://archives.nseindia.com/corporate/xbrl/IT_1074248_268799_25062020055418_WEB.xml"
+"INDUSINDBK","Indusind Bank Limited","7(2)","SHYAMAL KARMAKAR","Employees/Designated Employees","Equity Shares","14500","0",,"1500","717675","Buy","Equity Shares","16000","0","24-Jun-2020","24-Jun-2020","25-Jun-2020","ESOP","-","-","0","0","0","0","NA","-","25-Jun-2020 17:54","https://archives.nseindia.com/corporate/xbrl/IT_1074248_268799_25062020055418_WEB.xml"
+"INDUSINDBK","Indusind Bank Limited","7(2)","SHYAMAL KARMAKAR","Employees/Designated Employees","Equity Shares","12500","0",,"2000","956900","Buy","Equity Shares","14500","0","06-May-2020","06-May-2020","25-Jun-2020","ESOP","-","-","0","0","0","0","NA","-","25-Jun-2020 17:54","https://archives.nseindia.com/corporate/xbrl/IT_1074248_268799_25062020055418_WEB.xml"
+"INDUSINDBK","Indusind Bank Limited","7(2)","SAMEER GUPTA","Employees/Designated Employees","Equity Shares","32250","0",,"2000","860000","Sell","Equity Shares","30250","0","19-Mar-2020","19-Mar-2020","24-Jun-2020","Market Sale","-","-","0","0","0","0","NSE","-","25-Jun-2020 17:54","https://archives.nseindia.com/corporate/xbrl/IT_1074248_268799_25062020055418_WEB.xml"
+"INDUSINDBK","Indusind Bank Limited","7(2)","Indusind International Holdings Ltd","Promoters","Equity Shares","68314939","9.85",,"50425","26252056","Buy","Equity Shares","68365364","9.86","22-Jun-2020","23-Jun-2020","24-Jun-2020","Market Purchase","-","-","0","0","0","0","BSE","-","24-Jun-2020 15:10","https://archives.nseindia.com/corporate/xbrl/IT_1074096_268081_24062020031046_WEB.xml"
+"INDUSINDBK","Indusind Bank Limited","7(2)","Indusind International Holdings Ltd","Promoters","Equity Shares","68175939","9.83",,"139000","68210311","Buy","Equity Shares","68314939","9.85","18-Jun-2020","19-Jun-2020","22-Jun-2020","Market Purchase","-","-","0","0","0","0","BSE","-","22-Jun-2020 15:10","https://archives.nseindia.com/corporate/xbrl/IT_1073940_267363_22062020031011_WEB.xml"
+"INDUSINDBK","Indusind Bank Limited","7(2)","Indusind International Holdings Ltd","Promoters","Equity Shares","67975939","9.8",,"200000","97155230","Buy","Equity Shares","68175939","9.83","16-Jun-2020","17-Jun-2020","18-Jun-2020","Market Purchase","-","-","0","0","0","0","BSE","-","18-Jun-2020 15:10","https://archives.nseindia.com/corporate/xbrl/IT_1073745_266316_18062020031036_WEB.xml"
+"INDUSINDBK","Indusind Bank Limited","7(3)","Srinvias Reddy Vudumula","-","Equity Shares","25400","0",,"1000","526556","Sell","Equity Shares","24400","0","12-Jun-2020","12-Jun-2020","15-Jun-2020","Market Sale","-","-","0","0","0","0","NSE","-","16-Jun-2020 17:26","https://archives.nseindia.com/corporate/xbrl/IT_1073604_265779_16062020052657_WEB.xml"
+"INDUSINDBK","Indusind Bank Limited","7(2)","Indusind International Holdings Ltd","Promoters","Equity Shares","67475939","9.73",,"500000","255073450","Buy","Equity Shares","67975939","9.8","12-Jun-2020","15-Jun-2020","16-Jun-2020","Market Purchase","-","-","0","0","0","0","BSE","-","16-Jun-2020 15:13","https://archives.nseindia.com/corporate/xbrl/IT_1073591_265703_16062020031349_WEB.xml"
+"INDUSINDBK","Indusind Bank Limited","7(2)","Indusind International Holdings Ltd","Promoters","Equity Shares","67075939","9.67",,"400000","203790314","Buy","Equity Shares","67475939","9.73","10-Jun-2020","11-Jun-2020","11-Jun-2020","Market Purchase","-","-","0","0","0","0","BSE","-","12-Jun-2020 15:10","https://archives.nseindia.com/corporate/xbrl/IT_1073454_265061_12062020031007_WEB.xml"
+"INDUSINDBK","Indusind Bank Limited","7(2)","Indusind International Holdings Ltd","Promoters","Equity Shares","66575939","9.6",,"500000","230956419","Buy","Equity Shares","67075939","9.67","08-Jun-2020","09-Jun-2020","10-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","10-Jun-2020 15:40","https://archives.nseindia.com/corporate/xbrl/IT_1073311_264501_10062020034019_WEB.xml"
+"INDUSINDBK","Indusind Bank Limited","7(2)","SOUMITRA SEN","Employees/Designated Employees","Equity Shares","136339","0.02",,"16500","8089950","Buy","Equity Shares","152839","0.02","16-Apr-2020","16-Apr-2020","17-Apr-2020","ESOP","-","-","0","0","0","0","NA","-","17-Apr-2020 19:32","https://archives.nseindia.com/corporate/xbrl/IT_1072002_240586_17042020073217_WEB.xml"

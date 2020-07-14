@@ -1,0 +1,41 @@
+﻿"SYMBOL 
+","COMPANY 
+","REGULATION 
+","NAME OF THE ACQUIRER/DISPOSER 
+","CATEGORY OF PERSON 
+","TYPE OF SECURITY (PRIOR) 
+","NO. OF SECURITY (PRIOR) 
+","% SHAREHOLDING (PRIOR) 
+","TYPE OF SECURITY (ACQUIRED/DISPLOSED) 
+","NO. OF SECURITIES (ACQUIRED/DISPLOSED) 
+","VALUE OF SECURITY (ACQUIRED/DISPLOSED) 
+","ACQUISITION/DISPOSAL TRANSACTION TYPE 
+","TYPE OF SECURITY (POST) 
+","NO. OF SECURITY (POST) 
+","% POST 
+","DATE OF ALLOTMENT/ACQUISITION FROM 
+","DATE OF ALLOTMENT/ACQUISITION TO 
+","DATE OF INITMATION TO COMPANY 
+","MODE OF ACQUISITION 
+","DERIVATIVE TYPE SECURITY 
+","DERIVATIVE CONTRACT SPECIFICATION 
+","NOTIONAL VALUE(BUY) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE (BUY) 
+","NOTIONAL VALUE(SELL) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE  (SELL) 
+","EXCHANGE 
+","REMARK 
+","BROADCASTE DATE AND TIME 
+","XBRL 
+"
+"QUESS","Quess Corp Limited","7(2)","Ajit Abraham Isaac","Promoters","Equity Shares","18496711","12.53",,"90000","35001433","Buy","Equity Shares","18586711","12.59","30-Jun-2020","30-Jun-2020","01-Jul-2020","Market Purchase","-","-","0","0","0","0","NSE","-","01-Jul-2020 17:29","https://archives.nseindia.com/corporate/xbrl/IT_1074666_273099_01072020052903_WEB.xml"
+"QUESS","Quess Corp Limited","7(2)","Ajit Abraham Isaac","Promoters","Equity Shares","18196711","12.33",,"300000","117612800","Buy","Equity Shares","18496711","12.53","29-Jun-2020","29-Jun-2020","30-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","30-Jun-2020 17:32","https://archives.nseindia.com/corporate/xbrl/IT_1074570_272171_30062020053256_WEB.xml"
+"QUESS","Quess Corp Limited","7(2)","Ajit Abraham Isaac","Promoters","Equity Shares","18105961","12.27",,"90750","34024348","Buy","Equity Shares","18196711","12.33","26-Jun-2020","26-Jun-2020","29-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","29-Jun-2020 16:59","https://archives.nseindia.com/corporate/xbrl/IT_1074471_270911_29062020045952_WEB.xml"
+"QUESS","Quess Corp Limited","7(2)","Ajit Abraham Isaac","Promoters","Equity Shares","18085961","12.25",,"20000","7511169","Buy","Equity Shares","18105961","12.27","26-Jun-2020","26-Jun-2020","29-Jun-2020","Market Purchase","-","-","0","0","0","0","BSE","-","29-Jun-2020 16:59","https://archives.nseindia.com/corporate/xbrl/IT_1074471_270911_29062020045952_WEB.xml"
+"QUESS","Quess Corp Limited","7(2)","Ajit Abraham Isaac","Promoters","Equity Shares","18016401","12.2",,"69560","24392918","Buy","Equity Shares","18085961","12.25","23-Jun-2020","23-Jun-2020","24-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","24-Jun-2020 17:23","https://archives.nseindia.com/corporate/xbrl/IT_1074115_268218_24062020052318_WEB.xml"
+"QUESS","Quess Corp Limited","7(2)","Ajit Abraham Isaac","Promoters","Equity Shares","18001401","12.19",,"15000","5009744","Buy","Equity Shares","18016401","12.2","22-Jun-2020","22-Jun-2020","23-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","23-Jun-2020 17:04","https://archives.nseindia.com/corporate/xbrl/IT_1074024_267704_23062020050449_WEB.xml"
+"QUESS","Quess Corp Limited","7(2)","Ajit Abraham Isaac","Promoters","Equity Shares","17983723","12.18",,"17678","4718534","Buy","Equity Shares","18001401","12.19","09-Jun-2020","09-Jun-2020","10-Jun-2020","Market Purchase","-","-","0","0","0","0","NSE","-","10-Jun-2020 13:23","https://archives.nseindia.com/corporate/xbrl/IT_1073307_264466_10062020012352_WEB.xml"
+"QUESS","Quess Corp Limited","7(2)","Ajit Abraham Isaac","Promoters","Equity Shares","17966023","12.17",,"17700","5015412","Buy","Equity Shares","17983723","12.18","05-Jun-2020","05-Jun-2020","08-Jun-2020","Market Purchase","-","-","0","0","0","0","BSE","-","08-Jun-2020 14:29","https://archives.nseindia.com/corporate/xbrl/IT_1073159_264083_08062020022946_WEB.xml"
+"QUESS","Quess Corp Limited","7(2)","Ajit Abraham Isaac","Promoters","Equity Shares","17947523","12.16",,"18500","4992651","Buy","Equity Shares","17966023","12.17","04-Jun-2020","04-Jun-2020","05-Jun-2020","Market Purchase","-","-","0","0","0","0","BSE","-","05-Jun-2020 11:29","https://archives.nseindia.com/corporate/xbrl/IT_1073082_263604_05062020112904_WEB.xml"
+"QUESS","Quess Corp Limited","7(2)","Pratibha Jagannathan","Employees/Designated Employees","Equity Shares","61208","0.04",,"12060","2480139","Buy","Equity Shares","73268","0.05","19-May-2020","19-May-2020","20-May-2020","ESOP","-","-","0","0","0","0","NA","-","22-May-2020 19:25","https://archives.nseindia.com/corporate/xbrl/IT_1072620_260582_22052020072555_WEB.xml"
+"QUESS","Quess Corp Limited","7(2)","Srinivasan Guruprasad","Employees/Designated Employees","Equity Shares","88657","0.06",,"46900","9644985","Buy","Equity Shares","135557","0.09","19-May-2020","19-May-2020","20-May-2020","ESOP","-","-","0","0","0","0","NA","-","22-May-2020 19:23","https://archives.nseindia.com/corporate/xbrl/IT_1072619_260580_22052020072347_WEB.xml"

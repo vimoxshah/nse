@@ -1,0 +1,37 @@
+﻿"SYMBOL 
+","COMPANY 
+","REGULATION 
+","NAME OF THE ACQUIRER/DISPOSER 
+","CATEGORY OF PERSON 
+","TYPE OF SECURITY (PRIOR) 
+","NO. OF SECURITY (PRIOR) 
+","% SHAREHOLDING (PRIOR) 
+","TYPE OF SECURITY (ACQUIRED/DISPLOSED) 
+","NO. OF SECURITIES (ACQUIRED/DISPLOSED) 
+","VALUE OF SECURITY (ACQUIRED/DISPLOSED) 
+","ACQUISITION/DISPOSAL TRANSACTION TYPE 
+","TYPE OF SECURITY (POST) 
+","NO. OF SECURITY (POST) 
+","% POST 
+","DATE OF ALLOTMENT/ACQUISITION FROM 
+","DATE OF ALLOTMENT/ACQUISITION TO 
+","DATE OF INITMATION TO COMPANY 
+","MODE OF ACQUISITION 
+","DERIVATIVE TYPE SECURITY 
+","DERIVATIVE CONTRACT SPECIFICATION 
+","NOTIONAL VALUE(BUY) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE (BUY) 
+","NOTIONAL VALUE(SELL) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE  (SELL) 
+","EXCHANGE 
+","REMARK 
+","BROADCASTE DATE AND TIME 
+","XBRL 
+"
+"KCP","KCP Limited","7(2)","SUBBARAO VALLABHANENI","Promoter Group","Equity Shares","75930","0.06",,"25200","1249729","Buy","Equity Shares","101130","0.08","24-Jun-2020","30-Jun-2020","09-Jul-2020","Market Purchase","-","-","0","0","0","0","BSE","-","13-Jul-2020 14:18","https://archives.nseindia.com/corporate/xbrl/IT_1075041_280797_13072020021817_WEB.xml"
+"KCP","KCP Limited","7(2)","V.L. INDIRA DUTT","Promoters","Equity Shares","9619981","7.46",,"5000","241096","Buy","Equity Shares","9624981","7.46","29-Jun-2020","29-Jun-2020","09-Jul-2020","Market Purchase","-","-","0","0","0","0","BSE","-","13-Jul-2020 14:18","https://archives.nseindia.com/corporate/xbrl/IT_1075041_280797_13072020021817_WEB.xml"
+"KCP","KCP Limited","7(2)","V.L. INDIRA DUTT","Promoters","Equity Shares","3594412","2.78",,"6025569","0","Buy","Equity Shares","9619981","7.46","10-Jun-2020","10-Jun-2020","09-Jul-2020","Inter-se-Transfer","-","-","0","0","0","0","BSE","-","13-Jul-2020 14:18","https://archives.nseindia.com/corporate/xbrl/IT_1075041_280797_13072020021817_WEB.xml"
+"KCP","KCP Limited","7(2)","S. Rajiv Rangasami","Promoter Group","Equity Shares","193327","0.15",,"20000","957296","Sell","Equity Shares","173327","0.13","29-Jun-2020","03-Jul-2020","06-Jul-2020","Market Sale","-","-","0","0","0","0","NSE","-","06-Jul-2020 16:07","https://archives.nseindia.com/corporate/xbrl/IT_1074922_274581_06072020040717_WEB.xml"
+"KCP","KCP Limited","7(2)","S. Rajiv Rangasami","Promoter Group","Equity Shares","218327","0.17",,"25000","1211937","Sell","Equity Shares","193327","0.15","23-Jun-2020","26-Jun-2020","29-Jun-2020","Market Sale","-","-","0","0","0","0","NSE","-","06-Jul-2020 16:07","https://archives.nseindia.com/corporate/xbrl/IT_1074922_274581_06072020040717_WEB.xml"
+"KCP","KCP Limited","7(2)","S. Rajiv Rangasami","Promoter Group","Equity Shares","223327","0.17",,"5000","217934","Sell","Equity Shares","218327","0.17","15-Jun-2020","15-Jun-2020","24-Jun-2020","Market Sale","-","-","0","0","0","0","NSE","-","06-Jul-2020 16:07","https://archives.nseindia.com/corporate/xbrl/IT_1074922_274581_06072020040717_WEB.xml"
+"KCP","KCP Limited","7(2)","S. Rajiv Rangasami","Promoter Group","Equity Shares","243327","0.18",,"20000","887170","Sell","Equity Shares","223327","0.17","08-Jun-2020","09-Jun-2020","15-Jun-2020","Market Sale","-","-","0","0","0","0","NSE","-","17-Jun-2020 13:31","https://archives.nseindia.com/corporate/xbrl/IT_1073653_265903_17062020013118_WEB.xml"
